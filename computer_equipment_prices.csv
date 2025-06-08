@@ -1,0 +1,601 @@
+Product ID,Category,Brand,Model,Price (USD),Stock,Supplier,Date Manufactured
+17665402-0b33-4147-b469-dfd125a5a12f,Motherboard,Corsair,Corsair Motherboard Model-3733,152.03,496,ComputeMart,2-17-2022
+5dd8d1c5-a1fa-4b35-be0c-c3996fa5e548,Wi-Fi Adapter,ASUS,ASUS Wi-Fi Adapter Model-8365,48.36,328,ComputeMart,12-04-2013
+10070d9e-0bb8-4537-88ff-85699ce7e6b9,Network Switch,Seagate,Seagate Network Switch Model-5659,427.56,359,TechWorld,6-15-2021
+8194cdec-f222-4643-9f38-1f39b52c389d,Power Supply,Seagate,Seagate Power Supply Model-5938,67.4,484,ComputeMart,4-15-2013
+a77c4c3a-fc89-4c5a-af08-410c55983b12,Monitor,Intel,Intel Monitor Model-6348,253.03,203,GadgetDepot,7-19-2021
+e17c3e6b-9faf-4257-b31e-0f216b876cc0,SSD,Seagate,Seagate SSD Model-3114,208.75,72,TechWorld,04-05-2019
+dec6e539-fd59-4db7-8f5b-33d004d35e88,Power Supply,Crucial,Crucial Power Supply Model-4610,143.27,180,ComputeMart,12-22-2013
+ab4395b1-8203-4ed2-a396-6eaaae2fdc83,Processor,Western Digital,Western Digital Processor Model-1442,854.01,195,ITSupplies,8-19-2019
+e13d8f46-ea72-4bbf-8c9f-9e75d803d60c,Keyboard,AMD,AMD Keyboard Model-3070,71.54,417,NextGen Hardware,9-27-2021
+06c77a96-984f-4fca-8559-8d0d687193a1,Motherboard,Intel,Intel Motherboard Model-1739,239.94,232,NextGen Hardware,8-19-2014
+a6ff32a3-c21f-4577-9c11-5f94103c0a0e,Graphics Card,TP-Link,TP-Link Graphics Card Model-7324,1916.95,474,GadgetDepot,02-05-2017
+b8f28df8-ed1f-4a7b-bb1a-1d2b6afa610b,Router,MSI,MSI Router Model-7550,52.14,249,ComputeMart,3-28-2022
+7407c32a-47ef-4d10-8d86-13c76376629b,Monitor,TP-Link,TP-Link Monitor Model-2321,644.52,191,TechWorld,4-21-2022
+711d4c73-910f-4519-b1d2-14fd69646e22,Motherboard,Crucial,Crucial Motherboard Model-4909,364.28,197,ComputeMart,02-03-2019
+ba52bb86-8738-4c85-9f2f-2b31079bebeb,Graphics Card,HP,HP Graphics Card Model-1045,2357.12,255,NextGen Hardware,2-17-2013
+ddfe8a3f-43e6-49cf-8660-a02ddf50c88d,Printer,Crucial,Crucial Printer Model-4792,999.58,86,NextGen Hardware,5-24-2015
+00239cd4-66be-4e44-951e-d6f13c0e3e57,Graphics Card,TP-Link,TP-Link Graphics Card Model-1493,2407.92,17,TechWorld,11-18-2013
+d18341d7-e13d-466b-8f8c-655714d2aa7b,Router,Netgear,Netgear Router Model-4543,233.29,27,NextGen Hardware,4-30-2021
+247354b8-5e2c-4d23-b47b-2684535b33bb,External Hard Drive,Crucial,Crucial External Hard Drive Model-2500,153.45,222,NextGen Hardware,07-10-2014
+41a5fc06-2aea-4cf5-be7d-c42bcd30ef27,Printer,Samsung,Samsung Printer Model-2428,455.37,414,TechWorld,1-20-2017
+345bcb77-8955-4751-80bb-f5f6de4e55ce,Motherboard,Apple,Apple Motherboard Model-4723,452.81,126,NextGen Hardware,07-09-2017
+40fba0cf-cb5f-40b9-8b8b-3e2e459fdc3b,RAM,Lenovo,Lenovo RAM Model-5755,282.97,128,NextGen Hardware,3-18-2015
+fb74e9e1-af51-4590-8956-b3d70c9357ea,Network Switch,Intel,Intel Network Switch Model-3615,385.59,402,ComputeMart,11-27-2015
+5d630682-ff36-4272-a228-3975a24cdd64,Processor,ASUS,ASUS Processor Model-6157,228.2,491,GadgetDepot,10-14-2021
+9d9d1f8e-da05-4fe0-a668-2c1f94ef2480,External Hard Drive,Razer,Razer External Hard Drive Model-6678,175.5,497,TechWorld,06-01-2018
+f82d7924-489e-40b0-ac21-5b213f5490da,SSD,HP,HP SSD Model-2645,41.68,247,TechWorld,8-31-2014
+283e05c2-b2e1-47fb-88ab-3b5e33e80ed2,External Hard Drive,Dell,Dell External Hard Drive Model-9192,111.16,83,NextGen Hardware,9-17-2023
+d87b75dc-1a85-4a25-9e83-9a569c8440b1,Keyboard,Netgear,Netgear Keyboard Model-4756,112.07,55,ITSupplies,7-30-2019
+066b6491-81c8-4458-a786-0915c0ddf1ec,Power Supply,SteelSeries,SteelSeries Power Supply Model-2048,263.59,270,ITSupplies,4-14-2014
+cde7b1c0-dc63-42d0-84d6-5fa673d54c1e,Printer,MSI,MSI Printer Model-4576,52.11,395,ComputeMart,01-03-2014
+31fc767f-2571-49e4-80f0-d9530ac34db0,Laptop,Apple,Apple Laptop Model-6881,2911.59,211,TechWorld,9-29-2022
+e7640cc2-d4ff-46a2-8c54-dfaccc5432ce,Webcam,AMD,AMD Webcam Model-5930,84.77,117,GadgetDepot,10-15-2017
+579d5f6d-f263-4da2-b59e-98e1a05e6e29,Processor,Corsair,Corsair Processor Model-7920,884.02,237,TechWorld,2-19-2020
+b13934c4-cd07-4bc7-b027-ce6359c7e505,USB Hub,Netgear,Netgear USB Hub Model-9899,34.29,366,ITSupplies,9-28-2018
+9dfc94de-20b1-44b1-986a-6cd53b825874,Power Supply,AMD,AMD Power Supply Model-4358,293.76,218,NextGen Hardware,07-11-2013
+66f0f1dc-f09b-43bc-a7be-216a25fe97f0,Printer,Corsair,Corsair Printer Model-5643,416.78,338,TechWorld,5-25-2022
+2ba04f66-0dd2-4354-9d93-e5b2cf203df1,Graphics Card,Kingston,Kingston Graphics Card Model-3471,635.84,129,ITSupplies,9-13-2021
+459c80e3-e658-4b38-9c35-76520a1223f7,USB Hub,Corsair,Corsair USB Hub Model-5517,18.57,214,ITSupplies,11-13-2014
+24666e03-8dd3-424a-b26b-b304c77c3c58,Graphics Card,Logitech,Logitech Graphics Card Model-2896,185.13,202,ComputeMart,9-20-2021
+80ffec64-0323-4168-84b5-54ceebe7848e,Webcam,Apple,Apple Webcam Model-9495,76.53,300,NextGen Hardware,5-14-2023
+f8937da9-7729-47e1-b28b-50c41d6338f3,Power Supply,TP-Link,TP-Link Power Supply Model-3940,199.13,138,GadgetDepot,07-06-2014
+79daad63-1f33-4a23-9f21-7dd3e652ce99,Keyboard,MSI,MSI Keyboard Model-5054,108,487,TechWorld,08-09-2021
+4990f7c0-6bee-4488-8bd0-e21cd6fb7020,USB Hub,Apple,Apple USB Hub Model-5946,69.44,243,ITSupplies,4-26-2013
+cf5cb471-1580-4bab-aa54-b4a52afbe691,RAM,ASUS,ASUS RAM Model-7438,70.75,298,ComputeMart,6-29-2018
+7ff8fd26-ea20-42c3-8209-3c76f1a219c1,Motherboard,TP-Link,TP-Link Motherboard Model-3544,232.75,251,TechWorld,05-08-2017
+4be0fee2-3083-4d7e-a3f7-f8efe4f35fe2,Wi-Fi Adapter,Logitech,Logitech Wi-Fi Adapter Model-5637,28.57,64,GadgetDepot,2-23-2020
+30ca4bac-c60e-4701-a498-7e0464787e91,Monitor,Intel,Intel Monitor Model-5889,375.27,309,TechWorld,10-06-2022
+c29d3543-6f89-408e-8655-d98ae7d7da04,USB Hub,Corsair,Corsair USB Hub Model-4787,24.86,453,ITSupplies,3-30-2022
+e71dc1a8-8ee8-4a32-ab4c-add89ce7402a,Router,Seagate,Seagate Router Model-9085,441,255,ComputeMart,12-01-2022
+ffd99c40-37f6-40d6-96f4-8cba1e13c941,Laptop,TP-Link,TP-Link Laptop Model-1111,1582.91,96,NextGen Hardware,8-30-2017
+eeb1d5bf-2f27-43ba-b655-f508e7dc9e83,Docking Station,HP,HP Docking Station Model-7026,231.71,90,TechWorld,10-05-2023
+8015928c-e58a-4952-85e5-cfaa11c21fa9,Keyboard,Seagate,Seagate Keyboard Model-3586,160.8,268,ITSupplies,09-07-2014
+85808aae-26a1-4618-9705-a877ec66893c,Webcam,Netgear,Netgear Webcam Model-6676,149.26,10,TechWorld,03-02-2021
+17db80bb-5612-4031-af98-d57b0d212027,Docking Station,TP-Link,TP-Link Docking Station Model-8470,221.6,418,GadgetDepot,3-25-2014
+a32e25b9-ea31-4dbb-9187-094bc1f6186d,Router,Seagate,Seagate Router Model-6365,411.83,370,ComputeMart,1-21-2013
+1256582a-8a4c-490e-9e0d-bbd3d04184a1,RAM,Samsung,Samsung RAM Model-8340,207.95,186,NextGen Hardware,9-30-2014
+0892efdf-d52e-4516-a482-195fa375ac2d,Monitor,Intel,Intel Monitor Model-9439,744.13,158,TechWorld,7-24-2023
+5449fe37-1e7f-47d3-a5ae-d0bed66e8f28,Network Switch,Dell,Dell Network Switch Model-1703,409.56,252,ITSupplies,1-16-2015
+e6509979-de15-45a7-b0aa-7860b4e3cc64,Mouse,SteelSeries,SteelSeries Mouse Model-1495,19.29,478,TechWorld,03-06-2015
+afc76c82-eb33-4653-882c-07bfef400c41,Router,TP-Link,TP-Link Router Model-6791,341.69,150,ITSupplies,3-21-2017
+7ba884cc-7469-42d6-b285-11bf1e58ede0,Laptop,ASUS,ASUS Laptop Model-7891,2044.01,149,ComputeMart,2-20-2022
+0716d5c5-bdb0-4960-b34b-9ea9223dea88,Motherboard,Corsair,Corsair Motherboard Model-5835,370.3,134,ITSupplies,10-21-2014
+8c2608a8-37f4-4841-994e-d248dfd21ca0,Keyboard,Razer,Razer Keyboard Model-8837,83.36,247,NextGen Hardware,01-04-2021
+35a9d937-afb6-4a9a-8c6a-f7e9a05b4eaf,USB Hub,Logitech,Logitech USB Hub Model-5994,54.2,382,NextGen Hardware,09-01-2014
+2027b089-49b9-4937-98e1-530d38f6e0c6,Laptop,Apple,Apple Laptop Model-4472,1806.21,386,NextGen Hardware,06-04-2017
+8afb20bc-8452-40a6-a20d-b5963f33bbe0,Power Supply,MSI,MSI Power Supply Model-2787,38.13,83,ITSupplies,6-20-2015
+e568e7bf-ceb2-47ec-9419-809155686e99,SSD,Western Digital,Western Digital SSD Model-4972,346.68,204,ComputeMart,11-22-2020
+880d6b68-40ba-4094-b865-8d9af1114efc,Processor,Crucial,Crucial Processor Model-9569,899.09,436,TechWorld,11-10-2023
+81009c3c-f9a0-4988-a3b6-1672d85394ff,Router,ASUS,ASUS Router Model-5731,78.08,140,ITSupplies,9-25-2017
+6bb9a67e-1a53-46ab-b1ea-9ceaf54c192f,Headset,Dell,Dell Headset Model-7362,84.57,367,ITSupplies,10-21-2016
+0b25384b-94fb-43e5-bfad-ce76f3c32fca,Wi-Fi Adapter,TP-Link,TP-Link Wi-Fi Adapter Model-7100,41.55,334,GadgetDepot,06-12-2022
+da40cc5e-f50c-495b-8e8d-aef2f435f03d,Monitor,Logitech,Logitech Monitor Model-6401,400.3,379,GadgetDepot,08-08-2014
+45ce8ffb-5c50-41fb-8920-4664a4808164,Laptop,HP,HP Laptop Model-9684,1370.38,333,NextGen Hardware,7-14-2013
+32b903ec-2323-49ac-8cda-61c0e9caded3,Webcam,Logitech,Logitech Webcam Model-8243,69.64,216,GadgetDepot,10-20-2015
+cf8db211-8f9b-4cae-8100-fa50ea4a1c7c,Headset,Apple,Apple Headset Model-6184,164.94,362,TechWorld,1-15-2016
+9e7107b2-5fca-4e6a-9d05-1a7bc0c11a92,RAM,Seagate,Seagate RAM Model-7878,246.58,430,TechWorld,5-29-2015
+0efe25ba-001e-4fce-9493-6dc43eb72e2e,External Hard Drive,Corsair,Corsair External Hard Drive Model-8827,157.12,19,ITSupplies,11-30-2016
+dfc4c7f8-9091-4b57-b2af-a20d1cd5d04b,Mouse,HP,HP Mouse Model-2047,117.56,270,TechWorld,02-06-2018
+24942095-efe3-4d5b-a740-df24cedad8a7,SSD,HP,HP SSD Model-8801,109.24,331,ComputeMart,04-05-2023
+adc98067-650f-426f-8664-2a041a9818b5,Monitor,TP-Link,TP-Link Monitor Model-1354,788.88,241,ComputeMart,06-10-2016
+fa87770f-8f65-43df-8a59-cb8362d83c4a,USB Hub,AMD,AMD USB Hub Model-8339,86.33,295,TechWorld,02-12-2015
+8625dd59-cad5-4c50-8fba-1dfb93cbe405,Network Switch,Apple,Apple Network Switch Model-4631,280.01,138,ITSupplies,11-05-2019
+330d611c-ff18-4bd5-91e3-2d29646866e1,Laptop,Samsung,Samsung Laptop Model-3914,2277.34,91,ComputeMart,5-17-2017
+dedca892-a8e5-44f7-81b0-3bb4bcbc205c,Motherboard,Logitech,Logitech Motherboard Model-2824,400.23,110,TechWorld,02-02-2022
+328b1838-b927-447a-9afd-d9dcaad0672f,Router,Corsair,Corsair Router Model-8932,167.41,114,NextGen Hardware,12-29-2016
+f5200fd5-7470-4bdd-a585-35fe5518419b,Power Supply,Apple,Apple Power Supply Model-4005,239.1,282,ITSupplies,11-13-2023
+6b3bffd1-6090-48f5-8fc3-9745389ebce2,Router,AMD,AMD Router Model-1578,292.7,307,ComputeMart,11-25-2015
+8df54f49-9298-434f-9ec8-88894f8d3a0a,Desktop,Intel,Intel Desktop Model-2770,1732.45,267,TechWorld,4-13-2021
+e8b642ea-bc7a-466b-8841-1b743784c084,Graphics Card,Western Digital,Western Digital Graphics Card Model-9257,1131.81,100,GadgetDepot,1-24-2022
+d0988611-e512-4bfd-b163-c22dd73872ab,Laptop,Crucial,Crucial Laptop Model-7799,2426.66,96,NextGen Hardware,04-01-2016
+decd8a59-fcb6-404a-a6ab-bff311d45fef,SSD,Lenovo,Lenovo SSD Model-2553,221.78,47,GadgetDepot,04-04-2016
+b46f8377-640e-41ec-bef4-95b85aee2c1a,Graphics Card,Dell,Dell Graphics Card Model-4381,2191.79,82,GadgetDepot,1-17-2018
+a86d67d0-e9b5-44a6-8df8-2f14c40de585,Processor,ASUS,ASUS Processor Model-8078,509.19,265,NextGen Hardware,4-26-2015
+278e6a63-78fa-4988-82c6-b68d13bd47d0,Wi-Fi Adapter,HP,HP Wi-Fi Adapter Model-8693,48.62,284,ComputeMart,3-24-2017
+c3f4431b-edc2-4136-bd7c-6f52136014e5,Motherboard,Crucial,Crucial Motherboard Model-6780,421.02,48,ITSupplies,04-12-2020
+ad648419-3a15-4516-baba-ff56c2e8dfd5,Printer,Dell,Dell Printer Model-3763,841.38,311,GadgetDepot,08-05-2015
+f1177fc3-4a43-4147-ac7e-a5772c950cee,USB Hub,MSI,MSI USB Hub Model-8997,50.75,277,TechWorld,3-21-2017
+d85c6c26-740e-4f5d-9c8a-78ef278a7934,Monitor,Corsair,Corsair Monitor Model-3067,263.94,99,ComputeMart,10-28-2023
+ec4613fa-80a4-48bc-91be-91104233347e,Mouse,Seagate,Seagate Mouse Model-5530,10,498,ComputeMart,04-05-2019
+a7ba5034-4ede-4c33-bc2d-29768e345367,External Hard Drive,Intel,Intel External Hard Drive Model-7480,53.51,359,ComputeMart,01-08-2022
+50c59100-f265-4980-84f7-3e276379886f,Desktop,Lenovo,Lenovo Desktop Model-1790,1610.39,146,TechWorld,06-06-2022
+c0af66df-e394-4bb3-84c7-ba82b1ea05ff,Desktop,Dell,Dell Desktop Model-7849,1700.33,483,TechWorld,05-05-2014
+8f5c0367-2d3a-4a43-ba5b-3e26ff6ec30c,Laptop,Crucial,Crucial Laptop Model-6338,1594.99,326,ComputeMart,8-26-2019
+4ab59832-1905-40d9-9faf-c043e7bc91fe,Monitor,TP-Link,TP-Link Monitor Model-6361,252.47,282,NextGen Hardware,9-14-2021
+0b840b19-8ecd-4306-b34b-197ccf62b6c7,USB Hub,Samsung,Samsung USB Hub Model-5419,52.04,258,GadgetDepot,1-20-2019
+408fcdef-f2e8-4b56-97cc-d3d824ef1088,Monitor,Kingston,Kingston Monitor Model-7335,663.39,424,ITSupplies,4-20-2021
+28999d9d-cd12-4644-8bcf-87f236c74b84,USB Hub,AMD,AMD USB Hub Model-1880,12.04,427,ComputeMart,11-15-2018
+b9ba7d93-503f-4fe9-952a-86eaad43c806,Desktop,HP,HP Desktop Model-8853,1851.38,342,ComputeMart,12-10-2022
+efc29b12-5bf7-49a9-b7a4-d63cd254f4ab,Graphics Card,Logitech,Logitech Graphics Card Model-1488,199.36,200,ComputeMart,8-27-2022
+7bd33ac4-4de4-4a07-9e4a-a6c2c46bddff,Network Switch,Acer,Acer Network Switch Model-2710,255.55,71,GadgetDepot,3-18-2022
+75c74d4f-ed6f-4036-91a5-c16568d7662f,Desktop,Lenovo,Lenovo Desktop Model-3844,2432.77,488,TechWorld,4-28-2022
+b68e333d-6a70-4085-a4f3-4fcfa02bda0f,Router,SteelSeries,SteelSeries Router Model-5667,117.25,438,TechWorld,11-06-2020
+b7206fce-34f6-42e3-8b30-0febeb390414,Router,HP,HP Router Model-8067,265.12,30,ComputeMart,06-12-2018
+274d977e-f0fa-42ed-a83a-bb54f4583c32,Motherboard,Razer,Razer Motherboard Model-2848,344.18,214,ComputeMart,12-19-2017
+a9611b42-14e4-453d-8871-521dddd4e2dd,Router,TP-Link,TP-Link Router Model-5749,379.75,82,ComputeMart,8-17-2023
+3c7f0696-6de8-4a50-a256-6aa7ca837fda,Router,Kingston,Kingston Router Model-1537,30.82,339,GadgetDepot,11-24-2015
+9a05e26e-7d26-41e9-9746-ea7efbd728ba,Docking Station,Acer,Acer Docking Station Model-7688,160.09,402,TechWorld,11-15-2015
+4ad64401-1305-4453-a958-49594974e9c8,SSD,TP-Link,TP-Link SSD Model-1725,71.8,163,TechWorld,06-10-2014
+69a412f8-e43d-4288-ad9e-349ba740e120,RAM,Acer,Acer RAM Model-7759,62.98,32,TechWorld,8-28-2017
+ce982dab-4354-4a81-b491-adaa88c7961a,Monitor,Netgear,Netgear Monitor Model-1373,548.3,111,GadgetDepot,01-06-2017
+ee4e117d-2b13-4743-bd67-3fba748425c9,External Hard Drive,AMD,AMD External Hard Drive Model-8624,221.34,43,ITSupplies,3-15-2020
+11115f67-67c9-447d-b5fb-7662289a739f,Processor,Apple,Apple Processor Model-9185,381.01,272,ComputeMart,08-11-2019
+c8ab8066-0e0d-496c-8ff3-aacf731941f0,SSD,Corsair,Corsair SSD Model-7177,232.8,337,GadgetDepot,3-22-2019
+38236f67-0412-44de-8eec-0f03a1860a6d,Motherboard,AMD,AMD Motherboard Model-3214,139.23,435,ITSupplies,12-24-2021
+536e1e98-629d-4fe3-b44f-86dbc88ed27c,Docking Station,MSI,MSI Docking Station Model-4598,200.01,143,GadgetDepot,7-20-2013
+8f903266-785d-47ed-a537-ce26a4043653,Headset,Netgear,Netgear Headset Model-2137,278.79,390,ITSupplies,4-27-2017
+802459e2-71cb-40c7-a763-39093d5c9d32,Headset,Samsung,Samsung Headset Model-3557,186.38,216,TechWorld,6-19-2019
+e02e2119-af52-4bd3-bbf4-a707ea87e5c0,RAM,Acer,Acer RAM Model-4732,399.36,68,NextGen Hardware,01-08-2017
+dd956f4c-97e8-4813-89d0-4c38bd96905b,Printer,Western Digital,Western Digital Printer Model-4189,616.02,294,ComputeMart,3-26-2020
+294ae48c-c878-4436-8d9e-8a657e99aac2,Power Supply,Acer,Acer Power Supply Model-2179,91.21,221,ComputeMart,9-20-2015
+b58aeabf-7287-4882-8648-e3e513413d3a,Headset,Western Digital,Western Digital Headset Model-3074,206.21,134,TechWorld,03-11-2020
+e6bf61ee-3e0d-434d-a75e-4cd911da8af1,Graphics Card,Lenovo,Lenovo Graphics Card Model-7151,817.52,442,ITSupplies,08-05-2020
+5e18cfcc-73ba-4f5a-96e3-ae9b591425ef,Motherboard,ASUS,ASUS Motherboard Model-6674,422.08,496,ComputeMart,06-02-2022
+901783d4-01e9-4588-9ba5-9a1c5816d701,Wi-Fi Adapter,HP,HP Wi-Fi Adapter Model-3005,27.49,278,TechWorld,4-25-2014
+88c46c8d-6098-4142-b2ef-5c42750d0a8e,Graphics Card,SteelSeries,SteelSeries Graphics Card Model-3923,891.03,59,TechWorld,11-04-2015
+81e373b0-e734-432f-94c4-e3720ad265e7,Printer,ASUS,ASUS Printer Model-3555,383.31,452,TechWorld,10-11-2013
+1fe145a8-09ef-4630-ae82-8d276f484e44,Keyboard,TP-Link,TP-Link Keyboard Model-4482,186.06,153,ITSupplies,07-01-2014
+e6332e35-5897-4166-a07e-5f8df22d6778,Processor,Lenovo,Lenovo Processor Model-3456,344.14,449,ITSupplies,09-08-2014
+9dd4174e-6c92-465a-a307-2c6ea4603971,Network Switch,Crucial,Crucial Network Switch Model-6742,389.18,48,ComputeMart,5-19-2013
+5c069e02-2cbf-4be2-9964-8990bb7857e6,USB Hub,MSI,MSI USB Hub Model-2650,71.75,363,ComputeMart,8-22-2023
+cc32ac7e-22a8-4cf5-9e0f-e19c8792a252,USB Hub,Kingston,Kingston USB Hub Model-7403,92.98,472,TechWorld,10-20-2021
+a8a3e63b-0e63-4627-9569-7ff130096d62,Keyboard,SteelSeries,SteelSeries Keyboard Model-9501,41.86,190,GadgetDepot,4-15-2021
+3e92fb44-5569-4176-aecd-1a14566ea5f8,Wi-Fi Adapter,Intel,Intel Wi-Fi Adapter Model-5474,27.13,239,ITSupplies,5-17-2023
+987e852f-709c-4aa9-9d74-8723fd69cf22,Graphics Card,Kingston,Kingston Graphics Card Model-5571,2295.71,455,TechWorld,1-24-2016
+72bc786d-4025-41a8-abd7-3385cb43ada0,Graphics Card,Western Digital,Western Digital Graphics Card Model-5717,416.03,105,ITSupplies,10-03-2013
+39a79d4c-4957-412d-88bd-6acd7eb8ba57,Webcam,Western Digital,Western Digital Webcam Model-5741,153.5,241,GadgetDepot,04-01-2017
+fb79d701-b13e-4669-abcf-9fad97ee7161,External Hard Drive,Samsung,Samsung External Hard Drive Model-3772,78.58,219,NextGen Hardware,11-29-2018
+fc7facb2-f3ab-42a4-b9ec-1dc19d0182d7,Printer,Kingston,Kingston Printer Model-7984,400.98,137,TechWorld,9-15-2021
+c09d8c9d-abea-4961-95e1-8b89ad83159c,Processor,HP,HP Processor Model-3363,310.53,259,ITSupplies,5-24-2021
+01d63194-54fe-46c3-8bcd-d1677a9a4a94,Mouse,Samsung,Samsung Mouse Model-6369,147.27,476,ITSupplies,11-19-2019
+73677736-ff82-4b9e-bd12-4b9c5557ef0a,Printer,MSI,MSI Printer Model-9117,446.4,210,GadgetDepot,05-05-2021
+921e8f6a-699b-4208-ab64-144e506b1f26,Docking Station,Intel,Intel Docking Station Model-3080,216.65,379,NextGen Hardware,04-02-2013
+708f8ac9-c52d-4c25-98a6-2301680e80db,Wi-Fi Adapter,Kingston,Kingston Wi-Fi Adapter Model-4613,38.24,158,TechWorld,6-30-2016
+cde363fd-39d1-49da-9c82-94f8e61b354f,Webcam,SteelSeries,SteelSeries Webcam Model-6662,166.79,399,NextGen Hardware,4-20-2013
+3ab4c3cb-f865-4c22-825a-a76dd24510ce,USB Hub,Samsung,Samsung USB Hub Model-9932,44.14,113,ComputeMart,03-11-2023
+81ad4194-d851-4292-a55e-9b9c8b97c088,USB Hub,Apple,Apple USB Hub Model-5332,55.48,6,NextGen Hardware,1-18-2021
+cbca5493-c4c8-4285-a8e4-5fbb177de16e,Laptop,Crucial,Crucial Laptop Model-8314,1229.92,479,NextGen Hardware,4-22-2023
+15f17723-9143-466b-80dd-db4816156c3e,Printer,SteelSeries,SteelSeries Printer Model-7034,768.4,356,NextGen Hardware,08-04-2017
+50085851-d729-4e25-a049-0c68be9ffec4,Desktop,Seagate,Seagate Desktop Model-7198,1102.61,337,GadgetDepot,7-29-2014
+3f3cc8fa-46eb-4d7a-a74d-666bd49dd588,Keyboard,Lenovo,Lenovo Keyboard Model-1935,45.84,277,GadgetDepot,02-04-2013
+6b6e2ed8-97ef-42a1-9aba-a073e6592ca9,Graphics Card,Corsair,Corsair Graphics Card Model-9854,322.45,470,ComputeMart,3-26-2013
+014d9a84-e51c-40ea-8d4b-419da5840fb3,Processor,HP,HP Processor Model-7184,893.43,415,GadgetDepot,11-19-2015
+23146b62-b5e6-4f42-b4ab-d5091c3f7e00,Laptop,Dell,Dell Laptop Model-4489,1138.85,371,TechWorld,03-01-2019
+c4289ed2-ea60-4e14-8f68-40cd97c69b5b,Desktop,MSI,MSI Desktop Model-8351,2187.62,369,NextGen Hardware,06-05-2020
+fdc0ae0c-3963-44fa-9573-253abf613326,Network Switch,TP-Link,TP-Link Network Switch Model-1536,330.46,375,TechWorld,06-08-2017
+d25de192-e35a-4891-a7da-41f27032728c,Desktop,AMD,AMD Desktop Model-3637,1345.15,464,TechWorld,1-21-2019
+5a032289-dca5-4da7-bc4b-2a8b68b1993e,Power Supply,Western Digital,Western Digital Power Supply Model-8439,126.21,43,ComputeMart,11-15-2017
+7b969553-f475-44f2-865e-aa93247b10b2,External Hard Drive,Dell,Dell External Hard Drive Model-3229,146.46,179,TechWorld,3-16-2016
+9a2dda83-3750-463c-a181-1566311c2fe8,Webcam,Razer,Razer Webcam Model-9216,31.91,226,TechWorld,01-08-2017
+4dcddd91-f9ae-458b-ad0d-794b2e096fad,Motherboard,Western Digital,Western Digital Motherboard Model-3936,395.97,376,GadgetDepot,08-10-2022
+f04794b5-dd5c-446f-9085-c86a4e33f66d,Processor,Western Digital,Western Digital Processor Model-3176,672.82,276,ComputeMart,12-17-2013
+6a4df21a-a9dd-4836-80d6-991bc39da0d6,Desktop,Netgear,Netgear Desktop Model-2667,430.86,124,TechWorld,12-03-2015
+756fd4a4-203f-45a1-8d64-b472faa8f030,Desktop,Seagate,Seagate Desktop Model-6398,1918.56,304,GadgetDepot,09-11-2022
+dd6a11aa-3596-419c-a7f9-0a8cfdbb4cd9,Router,Acer,Acer Router Model-9118,273.93,360,GadgetDepot,3-13-2014
+bf0ba3cc-e8f5-4cfc-96ea-4edd70836e54,Network Switch,Apple,Apple Network Switch Model-3503,327.54,327,ITSupplies,12-18-2020
+460c25cc-5f07-4599-92af-79bb113457a3,Motherboard,Netgear,Netgear Motherboard Model-2741,416.61,51,TechWorld,3-16-2016
+51c65322-aff1-4056-9f83-794b806bd82a,SSD,Lenovo,Lenovo SSD Model-9049,202.69,398,GadgetDepot,07-09-2019
+44bbd436-7ecb-43b5-b4a5-348f881ac0cb,Keyboard,ASUS,ASUS Keyboard Model-1107,133.25,90,NextGen Hardware,07-11-2019
+7fc3c146-e5bd-4fba-95f0-190d52044229,Motherboard,Western Digital,Western Digital Motherboard Model-2486,350.33,453,GadgetDepot,8-28-2020
+7d916006-d17b-4c8f-a0d9-9c11c3d133c2,USB Hub,Kingston,Kingston USB Hub Model-2538,95.71,364,TechWorld,8-17-2014
+1cf2d90d-3cd2-456f-b372-a394ad9fc7b0,SSD,Apple,Apple SSD Model-4193,41.42,43,ITSupplies,1-29-2017
+8c66d4ce-ae09-49ea-8b7e-8bab2db2ed9c,RAM,Kingston,Kingston RAM Model-5731,263.44,421,NextGen Hardware,11-08-2014
+33210cdb-531b-4ec1-866e-3b04fc43e936,Motherboard,HP,HP Motherboard Model-6419,246.39,86,GadgetDepot,6-27-2015
+a6b43821-56ea-486e-8079-27f61baf0d36,Docking Station,Dell,Dell Docking Station Model-7840,129.74,188,ITSupplies,8-27-2023
+47abb820-4243-4236-8cf3-d882aa8bedb8,RAM,Acer,Acer RAM Model-9817,170.2,439,TechWorld,05-09-2017
+bd187255-ecd8-4651-ac94-3ff6c59f3ef8,Mouse,Kingston,Kingston Mouse Model-2259,93.68,327,ComputeMart,8-22-2016
+4d5e3f4d-e6ce-4fc2-91cc-d6a68d833d6b,RAM,Crucial,Crucial RAM Model-3801,342.79,299,TechWorld,8-25-2015
+ad7a4e8c-d626-43d6-8c42-4121db749af5,Processor,TP-Link,TP-Link Processor Model-8655,699.48,429,ComputeMart,04-07-2019
+571e2ad1-df93-468b-852c-b17782301ed2,Headset,Intel,Intel Headset Model-9664,247.88,169,ITSupplies,12-10-2019
+d5197d76-d01f-4895-9566-aaf24a6b897d,Docking Station,Kingston,Kingston Docking Station Model-6034,294.29,381,ITSupplies,11-20-2017
+846f5bdc-ecdf-495a-8b78-f6fa9982af94,Printer,ASUS,ASUS Printer Model-8916,671.71,67,ComputeMart,1-17-2020
+13f58f61-f73a-4039-9152-28f0e1b657fa,Printer,Kingston,Kingston Printer Model-9982,949.63,377,NextGen Hardware,5-29-2016
+8cdfc412-765a-4700-aace-e76b7b785afe,Processor,TP-Link,TP-Link Processor Model-6594,536.1,216,ITSupplies,06-11-2020
+2bad02a4-89a1-4970-ac19-adfc04d000ee,External Hard Drive,Corsair,Corsair External Hard Drive Model-5595,204.74,224,ITSupplies,12-04-2019
+25263ee9-a6d5-4162-8cd1-0cf1f6e6b017,Processor,SteelSeries,SteelSeries Processor Model-7003,451.81,119,TechWorld,8-28-2015
+ddf01090-e550-44df-954d-549ec78aa386,Network Switch,Western Digital,Western Digital Network Switch Model-7881,341.91,185,TechWorld,08-01-2020
+8b898cb5-6f3a-47b0-add4-fd354c6b6428,Printer,Crucial,Crucial Printer Model-9724,196.6,388,ComputeMart,3-30-2023
+a2233991-e856-4119-be44-d17a4893c800,Network Switch,Dell,Dell Network Switch Model-6819,80.03,165,ITSupplies,3-22-2019
+b8df8b2f-fc5e-4d9a-bd9c-f203d3799c4d,Laptop,Apple,Apple Laptop Model-7390,1647.28,85,ITSupplies,11-18-2017
+f22ece34-65c6-4af0-9ecb-915554d77f48,Monitor,MSI,MSI Monitor Model-8829,153.66,212,NextGen Hardware,7-30-2016
+759b28e1-bb9e-4635-9cd6-adb4b10ee1d9,Router,Samsung,Samsung Router Model-3918,147.62,495,GadgetDepot,12-18-2019
+6f0e1775-c22d-40f2-bbde-454bc705e21e,USB Hub,Logitech,Logitech USB Hub Model-1374,45.93,17,TechWorld,12-27-2018
+e15012e2-d2dd-427e-8d68-b67c9b18b667,Printer,Intel,Intel Printer Model-8093,439.7,314,ITSupplies,6-19-2020
+a73a1747-52ee-4356-938c-c89d1f43ae48,Wi-Fi Adapter,Seagate,Seagate Wi-Fi Adapter Model-4662,35.37,257,ComputeMart,05-06-2015
+5f1fb0f4-0177-42eb-930d-b0f56de5d6b0,Network Switch,Samsung,Samsung Network Switch Model-7958,445.14,77,GadgetDepot,03-04-2016
+8efd6595-7636-4e91-9a45-d295e2b70c2e,Headset,AMD,AMD Headset Model-9171,18.23,300,TechWorld,10-06-2023
+24794c6e-7b74-4102-9aa5-3b2e578ec97c,Desktop,Razer,Razer Desktop Model-1890,1135.12,355,ComputeMart,8-30-2022
+94dbe9d9-94ed-462a-9003-dd9d3e824787,Desktop,Netgear,Netgear Desktop Model-7139,1805.74,293,TechWorld,11-14-2020
+19b2ad06-5835-4d18-8fee-f22c778f24db,Motherboard,AMD,AMD Motherboard Model-3781,276.03,420,NextGen Hardware,1-15-2015
+fc22fc8e-b95b-4c32-8990-a4a700ddbd70,RAM,Samsung,Samsung RAM Model-2640,377.41,267,TechWorld,10-05-2013
+d6c3c2e0-5356-48f6-bd01-a92bb6bd0cbe,External Hard Drive,Kingston,Kingston External Hard Drive Model-6903,57.59,309,NextGen Hardware,07-09-2017
+4c6b0152-3d1a-46fa-a57d-cf3334cc6908,Network Switch,Dell,Dell Network Switch Model-2423,170.52,484,TechWorld,11-21-2016
+0d4318f0-e577-4435-bb50-524e5eb95e58,Wi-Fi Adapter,Kingston,Kingston Wi-Fi Adapter Model-7146,24.58,118,ComputeMart,5-18-2021
+00c4e4de-6f32-421e-a510-9d087443de72,Laptop,Corsair,Corsair Laptop Model-1565,2950.58,473,GadgetDepot,5-13-2016
+91b107aa-274e-4e9c-b26b-94678ed4daac,RAM,HP,HP RAM Model-7029,299.82,302,NextGen Hardware,5-23-2016
+f08dbc80-7254-4900-a76e-96684b549be5,Processor,Samsung,Samsung Processor Model-4258,743.91,144,GadgetDepot,4-28-2017
+5d6f9f48-cc42-47b2-a1f2-b3a99274c408,Monitor,ASUS,ASUS Monitor Model-9120,682.14,198,ComputeMart,9-28-2019
+6afa7e43-b6ba-46ef-9174-d8d77aee3dac,Docking Station,Seagate,Seagate Docking Station Model-5899,279.39,381,GadgetDepot,2-14-2013
+dd1207f0-b55b-46e7-b416-ab16776b306f,External Hard Drive,HP,HP External Hard Drive Model-8807,235.99,277,NextGen Hardware,3-15-2015
+6ec946a1-3714-4a4d-a29d-7996eef6fa02,Motherboard,Lenovo,Lenovo Motherboard Model-2003,167.4,431,ComputeMart,09-08-2013
+56756705-fa42-44f0-998a-4825f9f8f263,Webcam,Kingston,Kingston Webcam Model-2034,41.24,286,ITSupplies,11-15-2015
+37ef40b8-c2e8-44e6-a16d-957dd97aade8,USB Hub,Lenovo,Lenovo USB Hub Model-6235,89.89,310,NextGen Hardware,08-11-2014
+23fc7d29-d7fb-417a-9397-69f14939c940,Wi-Fi Adapter,Razer,Razer Wi-Fi Adapter Model-6307,14.45,260,TechWorld,02-12-2018
+e292e6d4-2498-4a65-a271-dce87e7ce6d0,Keyboard,Western Digital,Western Digital Keyboard Model-4358,72.02,472,TechWorld,7-27-2019
+49414b77-1d19-454b-8c81-b930cdf6f115,Laptop,Corsair,Corsair Laptop Model-9684,926.05,347,GadgetDepot,11-02-2023
+78102801-6fae-4a42-819b-0567c1013074,Power Supply,MSI,MSI Power Supply Model-8803,32.2,447,ITSupplies,6-21-2019
+79e4cd11-1f3d-4981-9d62-a31750cc07b6,Monitor,Dell,Dell Monitor Model-5187,732.35,4,NextGen Hardware,08-06-2017
+dbea3754-8760-4d47-b0da-ef6f0afec86b,USB Hub,SteelSeries,SteelSeries USB Hub Model-9051,22.79,37,ComputeMart,03-11-2016
+f7876159-e7f0-466d-a764-20f8588824c9,Network Switch,SteelSeries,SteelSeries Network Switch Model-3271,203.84,300,GadgetDepot,01-08-2014
+08b777f8-f42b-4e08-8784-2266f9e8eb64,Mouse,Apple,Apple Mouse Model-4462,64.59,72,ITSupplies,4-20-2015
+b3407641-f9b6-4c56-ba57-af5cda2df7cf,Power Supply,Razer,Razer Power Supply Model-6779,261.44,429,TechWorld,12-01-2023
+bdf06261-0083-4069-9481-c8222eb878ed,Headset,Kingston,Kingston Headset Model-1796,193.55,192,NextGen Hardware,11-12-2013
+aa865730-2f58-4651-ba31-8ad200c2d4f4,Router,HP,HP Router Model-9334,338.5,308,ComputeMart,11-04-2014
+0afd0ca2-3b6b-4dfd-a9e1-b6256b3d7eb0,Wi-Fi Adapter,Acer,Acer Wi-Fi Adapter Model-7859,15.5,53,ComputeMart,7-27-2018
+d53b6f2c-8c87-47b0-b022-e6b2a9640198,Router,MSI,MSI Router Model-4357,117.49,440,TechWorld,3-24-2022
+c6196996-6e13-413d-828b-db856f5a765a,Router,Apple,Apple Router Model-4617,397.78,424,TechWorld,6-15-2023
+332ff324-fe7e-42ee-8988-e2dd6bfd9b04,Router,Acer,Acer Router Model-7565,241.64,89,ComputeMart,11-15-2019
+f57da1ff-24ed-4047-b54b-2da3f727f83c,RAM,Samsung,Samsung RAM Model-4126,180.76,5,TechWorld,9-29-2019
+9d971550-8edf-43de-b0b4-34d51e0dcac3,RAM,HP,HP RAM Model-5087,239.89,73,ITSupplies,5-20-2016
+ee08e8f5-8461-42fe-aa1f-604d9abe4026,SSD,Razer,Razer SSD Model-5466,201.88,335,ITSupplies,8-24-2023
+5083a4fe-d5ad-4018-b40e-d39a7704e3b8,Laptop,Intel,Intel Laptop Model-8737,1309.78,90,ComputeMart,06-02-2018
+4a55e650-b3f5-476c-9da2-935137271951,Monitor,Kingston,Kingston Monitor Model-1216,600.76,322,TechWorld,07-07-2015
+a5f90ba2-d66b-48ac-afec-27629298be44,External Hard Drive,MSI,MSI External Hard Drive Model-3655,52.57,264,ITSupplies,3-21-2014
+40305b84-2579-4f47-88a6-d8184beef388,Graphics Card,Intel,Intel Graphics Card Model-4446,1555.39,470,NextGen Hardware,6-30-2016
+3f3115e2-47f0-4c9b-b467-cd1d4ac00752,Webcam,Netgear,Netgear Webcam Model-3811,78.3,357,TechWorld,7-30-2023
+1958e554-c165-4aa2-889c-12062d3ed406,USB Hub,Razer,Razer USB Hub Model-2501,50.84,135,NextGen Hardware,4-21-2016
+1366d04f-1786-4872-a55b-989ea06a867a,Keyboard,Seagate,Seagate Keyboard Model-7656,114.97,289,NextGen Hardware,5-28-2022
+6e815591-8328-45cf-a6b2-313ba7232fe2,Desktop,Corsair,Corsair Desktop Model-8435,467.22,188,ComputeMart,7-27-2023
+a80fcd3a-9cac-47f3-8bcd-0771c92fac09,External Hard Drive,MSI,MSI External Hard Drive Model-6366,78.55,57,ComputeMart,01-05-2019
+cbee3124-3afa-41de-b245-d3258b3b2aff,USB Hub,AMD,AMD USB Hub Model-5896,75.39,364,GadgetDepot,04-08-2021
+2cdec927-6064-4262-b088-9e6a33f0e969,Mouse,Logitech,Logitech Mouse Model-7116,98.66,421,ComputeMart,03-09-2015
+44c81d2f-271e-4b7b-9b82-7e8fa28689fd,Network Switch,Intel,Intel Network Switch Model-3583,128.22,165,ITSupplies,7-29-2021
+5b97c0e7-aa13-42a1-b8ab-1f6f1561e42e,External Hard Drive,Razer,Razer External Hard Drive Model-3965,116.15,370,ITSupplies,06-11-2017
+cd4f439d-f235-4967-8858-b44a06ed5d1b,Motherboard,Dell,Dell Motherboard Model-8597,167.03,143,GadgetDepot,7-17-2018
+03778d83-3c55-4d59-bc9a-f443de32effd,Printer,HP,HP Printer Model-6920,163.65,45,GadgetDepot,5-13-2019
+da8b10b5-6343-4f6b-bb36-0d834ca8ea65,Headset,Corsair,Corsair Headset Model-8858,268.8,393,NextGen Hardware,11-15-2019
+2a12d7ba-52a2-4dc0-a831-93704b7f9c4b,Processor,Acer,Acer Processor Model-1706,490.31,239,TechWorld,11-09-2014
+990da5cb-a541-4a88-b297-9394ca7d991e,Keyboard,Razer,Razer Keyboard Model-4274,188.49,248,GadgetDepot,07-02-2021
+2da6ed50-ad4b-4dce-ae21-d5883a38ca4d,Processor,Crucial,Crucial Processor Model-2115,537.34,127,ITSupplies,09-12-2019
+261d4889-ae40-4794-be05-a5e925962af4,USB Hub,Razer,Razer USB Hub Model-9026,93.91,404,ComputeMart,06-04-2017
+8528ac13-c425-479d-8bce-f5908bc3bf7f,SSD,Intel,Intel SSD Model-5059,321.99,20,GadgetDepot,08-10-2019
+ef3fb27f-71da-49c0-ab25-02700f5414c1,Motherboard,Logitech,Logitech Motherboard Model-9900,286.69,277,ComputeMart,7-28-2016
+df1838bd-a775-4b5e-b460-3a3d4d577269,Desktop,ASUS,ASUS Desktop Model-7678,2483.08,99,GadgetDepot,5-22-2019
+e78c3351-80d2-45d3-a71f-2455a16e8681,Mouse,Dell,Dell Mouse Model-8219,105.45,213,ITSupplies,10-27-2013
+f1311eb8-0adb-4a6b-873d-3117f5314f0d,Docking Station,ASUS,ASUS Docking Station Model-6802,156.69,337,ITSupplies,2-20-2023
+c0ca247d-2da4-4103-8f91-fda404872ffa,Laptop,Dell,Dell Laptop Model-8014,2307.45,2,GadgetDepot,5-23-2015
+9430a192-edef-4d0d-806d-d8128e3c9067,Docking Station,ASUS,ASUS Docking Station Model-9649,40.43,489,NextGen Hardware,03-10-2017
+4e27ada5-cf14-4d7c-af54-ab1286dc3d6c,Mouse,MSI,MSI Mouse Model-5813,105.29,464,ITSupplies,6-16-2018
+9b6083da-27ac-4da7-a56d-205a60919f50,Wi-Fi Adapter,Netgear,Netgear Wi-Fi Adapter Model-8778,13.68,455,ComputeMart,11-08-2019
+b3656f1e-0de6-4a7f-95f7-9af87bd87467,Docking Station,Corsair,Corsair Docking Station Model-2950,21.06,408,GadgetDepot,06-10-2022
+25c8afa0-aa9d-4c46-9c23-8d7c7ecc7719,Network Switch,Western Digital,Western Digital Network Switch Model-5937,275.85,286,TechWorld,09-10-2017
+8485dea0-896b-41b1-adbb-0052e5050bfe,SSD,Kingston,Kingston SSD Model-7442,242.39,238,TechWorld,12-16-2022
+3ed1fe8b-0cf5-44ae-b6a3-47e71a9c2567,Headset,Logitech,Logitech Headset Model-5177,295.87,260,ComputeMart,12-08-2023
+8f0e4149-fda1-4b8c-aad4-11481b79417d,USB Hub,AMD,AMD USB Hub Model-2245,99.46,83,ComputeMart,01-12-2015
+081a83ea-2e61-415f-873a-e8e765da88f7,External Hard Drive,Intel,Intel External Hard Drive Model-2263,191.86,423,NextGen Hardware,2-24-2016
+0c1c9647-aa98-41ad-98fa-93df0340e99a,Mouse,MSI,MSI Mouse Model-7599,83.6,209,NextGen Hardware,09-05-2020
+2d76a320-3d67-4231-a488-3d3ad82ecadc,Motherboard,MSI,MSI Motherboard Model-3497,348.61,221,GadgetDepot,5-30-2023
+18d61a60-964c-4a8c-8b9a-acf598464695,Router,ASUS,ASUS Router Model-9924,393.54,413,TechWorld,05-03-2023
+0fb99a40-9609-4c1f-96ab-3ca80486e606,Laptop,ASUS,ASUS Laptop Model-4995,406.92,171,TechWorld,10-16-2014
+c0f2b324-b93d-4360-beba-1cd3c4c7da6c,External Hard Drive,Netgear,Netgear External Hard Drive Model-4537,101.94,48,NextGen Hardware,11-29-2018
+fb220c00-1f7f-4866-b0bb-84c9c4437797,Desktop,Razer,Razer Desktop Model-4721,2222.85,454,NextGen Hardware,3-14-2016
+5235c7b2-98fc-4c4c-a1e5-62f5f832cd57,Monitor,Crucial,Crucial Monitor Model-5006,782.43,193,ComputeMart,05-10-2018
+10aa42c8-8821-495a-a31f-e454610718f8,Router,SteelSeries,SteelSeries Router Model-8025,389.85,422,ITSupplies,09-12-2016
+044c6c8d-3957-467d-8448-b2f8ccbc4a4c,Webcam,Samsung,Samsung Webcam Model-7995,130.24,419,GadgetDepot,07-03-2016
+41f9260c-5a9d-447e-94cf-f63abd44cacf,Webcam,Lenovo,Lenovo Webcam Model-4909,131.33,87,ITSupplies,12-18-2017
+e5e8ae90-c5f8-4fb1-8a6e-bcee551e6c56,RAM,Corsair,Corsair RAM Model-5617,327.2,259,ComputeMart,5-15-2023
+499f1445-020e-4e42-9df9-75f13e451cc7,Network Switch,SteelSeries,SteelSeries Network Switch Model-3046,367.37,256,GadgetDepot,02-07-2015
+57cf05ba-c7e3-4988-9023-b270c9f9c60e,Monitor,ASUS,ASUS Monitor Model-2239,109.02,236,TechWorld,01-12-2018
+8ec1e231-e53f-406a-954d-b0e9555e8b52,Network Switch,Crucial,Crucial Network Switch Model-7923,470.38,285,NextGen Hardware,10-16-2013
+3fa01280-e4e1-4493-9f73-e762cfe68b2c,Wi-Fi Adapter,ASUS,ASUS Wi-Fi Adapter Model-9825,47.88,316,TechWorld,06-02-2023
+23fec945-6f1c-4b49-892f-99586d1c3516,Keyboard,Razer,Razer Keyboard Model-8965,13.44,222,NextGen Hardware,11-30-2014
+39d8a6ff-398c-4269-9012-24722bdc8a07,Docking Station,Logitech,Logitech Docking Station Model-4435,208.28,430,GadgetDepot,3-23-2013
+a48057e0-1610-4615-b399-8cd8acb3c61e,Keyboard,SteelSeries,SteelSeries Keyboard Model-5657,195.2,436,ITSupplies,6-19-2013
+1d371ce0-f8c4-44d6-a709-179f11c39441,Wi-Fi Adapter,Apple,Apple Wi-Fi Adapter Model-4714,14.33,127,NextGen Hardware,04-01-2014
+cb1f8fba-5792-46b4-bd0a-32e951f90b6f,Wi-Fi Adapter,Dell,Dell Wi-Fi Adapter Model-6151,29.44,231,TechWorld,1-28-2021
+07d8db0b-e492-471a-9e1d-3e297e46b7f8,Processor,ASUS,ASUS Processor Model-2029,415.07,103,TechWorld,3-26-2018
+b870d946-8200-4274-a790-a366a739d532,Headset,Netgear,Netgear Headset Model-7983,245.72,105,TechWorld,06-01-2014
+d5968d6c-121a-48e0-8f75-472506b19ba5,Motherboard,Netgear,Netgear Motherboard Model-2087,451.14,393,NextGen Hardware,05-06-2013
+2be72a1c-d783-495a-9153-f85e98e6d01d,Router,Dell,Dell Router Model-6804,334.43,47,ITSupplies,8-20-2018
+5f346c3a-c573-465c-a34c-360e96e1ba16,Router,Razer,Razer Router Model-9213,347.93,444,GadgetDepot,7-19-2019
+75250d3c-217b-40f4-bac7-e77077fb069d,Printer,ASUS,ASUS Printer Model-5246,101.32,197,GadgetDepot,5-30-2023
+cf0ce1de-230d-47ec-8b09-831a0ab4de58,Keyboard,Samsung,Samsung Keyboard Model-9498,121.01,202,GadgetDepot,8-26-2022
+3a2c609c-3f8a-4ba8-a773-be9d7fcb133e,Desktop,Seagate,Seagate Desktop Model-6849,1382.48,273,ITSupplies,08-06-2020
+3b9b5255-e3c2-4772-a711-3bf3b246cca2,Network Switch,AMD,AMD Network Switch Model-2447,300.8,22,NextGen Hardware,10-07-2015
+2ef3f860-22b7-4e45-a7c4-61b0066d26c0,Mouse,Kingston,Kingston Mouse Model-5457,47.42,439,TechWorld,12-27-2019
+2ca1cf8b-7d36-4c22-9c23-304b58511549,Graphics Card,Apple,Apple Graphics Card Model-8975,1274.79,238,ITSupplies,8-23-2021
+de64cd27-508d-49e4-b797-bafcfa418982,Wi-Fi Adapter,Lenovo,Lenovo Wi-Fi Adapter Model-4909,49.72,428,NextGen Hardware,02-12-2023
+032e3622-cc1f-4dcd-9fad-cb7cf9c83905,Wi-Fi Adapter,TP-Link,TP-Link Wi-Fi Adapter Model-2951,42.09,61,NextGen Hardware,10-30-2020
+6780be06-963a-4f14-952f-07cefd4ae22a,SSD,Intel,Intel SSD Model-1202,256.93,492,ITSupplies,12-18-2018
+9525e585-2e4e-45bd-8255-1b27f07f678f,External Hard Drive,Razer,Razer External Hard Drive Model-1725,276.7,60,ITSupplies,6-27-2022
+e27d98b9-dab0-43b5-974b-220500186fcb,Power Supply,Kingston,Kingston Power Supply Model-3577,164.9,34,GadgetDepot,06-07-2016
+96233a44-c1fc-4109-82dc-94332249aea9,Graphics Card,Logitech,Logitech Graphics Card Model-3163,236.24,421,NextGen Hardware,7-13-2022
+f137adbd-38e5-4f93-bba2-f5548bad0df1,Keyboard,Logitech,Logitech Keyboard Model-5714,133.37,356,ITSupplies,11-30-2017
+cf3b0790-5723-4875-8ff4-374e21bb7319,Graphics Card,TP-Link,TP-Link Graphics Card Model-9142,1770.83,221,NextGen Hardware,7-18-2014
+7515a09c-2aee-4aa7-93c1-a735d14bda3d,External Hard Drive,SteelSeries,SteelSeries External Hard Drive Model-1817,192.37,13,ComputeMart,09-04-2016
+680c612a-b450-40e9-ad3e-a3e7df92ff98,Motherboard,HP,HP Motherboard Model-9754,298.3,125,ITSupplies,7-19-2020
+f327a3c1-c6e7-4b09-bf3b-f50da7733e3b,Desktop,Samsung,Samsung Desktop Model-2794,506.58,286,TechWorld,12-21-2021
+4710dd79-006a-4642-ba8a-33de06108c5c,Network Switch,Logitech,Logitech Network Switch Model-4581,171.2,500,NextGen Hardware,5-20-2022
+0ca193e6-65b2-4a57-9358-d23fff360062,Router,Crucial,Crucial Router Model-7152,364.42,341,TechWorld,03-04-2020
+8018997f-6171-412f-8a55-63946c76ad44,Mouse,Netgear,Netgear Mouse Model-7803,144.1,474,GadgetDepot,10-12-2021
+ae462847-a539-49ee-af5e-5f08fafde494,Printer,Intel,Intel Printer Model-8174,602.02,453,ITSupplies,8-25-2016
+03dfcf45-e62f-4f28-a9c6-a1b825358194,Printer,Samsung,Samsung Printer Model-2602,931.9,445,ComputeMart,05-03-2022
+1fc30efa-83df-4f1d-b829-40bc0bb39a87,Printer,AMD,AMD Printer Model-7677,711.53,228,TechWorld,1-13-2014
+8a265fbc-faef-4c2b-a871-30efd16621fb,Wi-Fi Adapter,MSI,MSI Wi-Fi Adapter Model-8951,34.45,72,TechWorld,8-14-2021
+9d006e02-44cf-46e9-a440-3dee1e102f45,RAM,Intel,Intel RAM Model-5604,257.08,10,ITSupplies,07-02-2022
+1792cd74-f363-4eb8-a4eb-1e2639cdfea1,Printer,HP,HP Printer Model-9417,445.71,39,ITSupplies,01-01-2015
+07eb85a8-3326-4a11-94fa-b6b9bb8b03fc,Monitor,Intel,Intel Monitor Model-5604,103.89,393,ComputeMart,01-01-2019
+35c57cfd-036b-4097-8c7e-bc127760795a,Mouse,Apple,Apple Mouse Model-9433,8.35,213,TechWorld,6-22-2017
+16faa26f-5a1e-411f-ad1e-2a34a14705ef,USB Hub,Acer,Acer USB Hub Model-3057,73.93,446,NextGen Hardware,11-07-2021
+72a82ec7-04c3-4c29-94c3-ab4f8f3440b9,Webcam,Apple,Apple Webcam Model-9860,42.08,490,ITSupplies,04-06-2016
+fea60ea3-b53d-440a-8211-2db1dafeb9cd,Desktop,MSI,MSI Desktop Model-2957,1729.5,388,NextGen Hardware,5-16-2017
+759252bc-66e1-43ff-a3fe-f64f3f77fec5,Power Supply,Acer,Acer Power Supply Model-6362,50.44,164,ComputeMart,6-16-2019
+edcdf212-0a17-4209-80c4-b02cc07b2911,Laptop,MSI,MSI Laptop Model-9185,1808.01,395,GadgetDepot,08-11-2013
+037841c5-1389-4f09-87b3-51ae9c300797,Desktop,Acer,Acer Desktop Model-6556,1906.18,80,NextGen Hardware,6-23-2013
+505963d4-8fca-469a-9a74-90214664ebe5,Processor,Netgear,Netgear Processor Model-7344,948.95,379,TechWorld,04-10-2013
+f7b6793c-95c0-476e-8240-0a49ab439203,Mouse,Logitech,Logitech Mouse Model-1922,26.51,471,ITSupplies,9-13-2016
+65b5ad65-e96c-4b12-9e4a-f0f3737eafb3,RAM,Seagate,Seagate RAM Model-7594,24.36,463,ComputeMart,3-18-2016
+e9c9b10f-7519-4e31-a0af-439c6cd291bc,Monitor,HP,HP Monitor Model-8658,755.32,113,ComputeMart,4-15-2018
+b0039908-30cf-41a5-b88b-4f4a92dddaa4,Desktop,Kingston,Kingston Desktop Model-8154,1635.13,120,TechWorld,2-18-2023
+7457b645-e2e8-49ca-ba76-452176e66d7e,Webcam,Western Digital,Western Digital Webcam Model-1743,90.83,443,NextGen Hardware,11-03-2022
+fa604511-e0ac-40ae-87ca-3aa1707e5918,Keyboard,HP,HP Keyboard Model-9676,111.89,210,GadgetDepot,4-23-2014
+3d8d4952-ca9e-437c-ac3e-252dd7b63a37,Monitor,Netgear,Netgear Monitor Model-6704,640.12,50,NextGen Hardware,4-15-2016
+596e679a-9eb3-47bb-bed7-dcb6d2a225f9,Printer,Kingston,Kingston Printer Model-1348,945.92,123,NextGen Hardware,4-26-2020
+c219479c-febc-442b-9ced-4d208040cfa5,Processor,Samsung,Samsung Processor Model-6387,220.94,90,ITSupplies,08-12-2023
+4059c866-2d8b-4d66-8bab-09e3f938672a,Printer,TP-Link,TP-Link Printer Model-8370,246.56,46,GadgetDepot,04-06-2015
+73cf3417-8ba8-4ed6-9c9b-24cab75d6ce3,Mouse,AMD,AMD Mouse Model-1243,60.69,181,NextGen Hardware,3-17-2016
+0c7b35f0-648d-4a22-817a-8a41290ac0cd,Printer,Samsung,Samsung Printer Model-5233,390.99,5,GadgetDepot,10-08-2018
+84490326-2f6e-438e-8e89-8ad973f2f8cd,Network Switch,Western Digital,Western Digital Network Switch Model-7810,450.25,15,ComputeMart,08-01-2020
+2790eaaf-4c40-4301-a088-f1f662ae285f,External Hard Drive,TP-Link,TP-Link External Hard Drive Model-7957,147.35,212,TechWorld,02-10-2018
+8fb07011-fd78-4fe2-b9ad-a7b7c5de4a92,Wi-Fi Adapter,Razer,Razer Wi-Fi Adapter Model-6356,36.29,181,GadgetDepot,05-09-2013
+8210c051-19c2-439f-a77b-5f266404318c,Keyboard,AMD,AMD Keyboard Model-7089,168.35,299,ITSupplies,04-01-2015
+44efd11e-4377-4ddc-af8e-da7473c9dd98,Monitor,Intel,Intel Monitor Model-2841,432.24,118,GadgetDepot,4-16-2019
+e3954c9a-60f0-4bca-b5a6-3755e294ef51,SSD,Logitech,Logitech SSD Model-3602,202.82,239,ComputeMart,2-14-2023
+d48083c4-ab51-4cd4-9577-5d9df036c407,External Hard Drive,Samsung,Samsung External Hard Drive Model-4832,189.44,466,ComputeMart,5-18-2021
+5fab1f6d-aa06-4b8c-9abc-4bf90410c73d,RAM,Lenovo,Lenovo RAM Model-8793,293.55,144,ITSupplies,12-23-2022
+d61f01c6-1e2e-4798-9200-058b3d78639a,Router,Razer,Razer Router Model-4063,487.68,121,NextGen Hardware,03-05-2018
+75305646-6b30-4e92-a448-c66da05f2e87,SSD,Corsair,Corsair SSD Model-5149,220.38,277,ITSupplies,10-05-2022
+1c510dc1-cb0b-4f03-9aaf-257874eba676,Docking Station,Dell,Dell Docking Station Model-6019,118.06,251,TechWorld,03-08-2015
+fb0dbb8e-0280-4be5-8dc8-4fd0551688d3,Monitor,HP,HP Monitor Model-8999,545.32,411,NextGen Hardware,06-05-2020
+c0a983b4-475b-4b33-82e9-982435e60e55,Network Switch,Netgear,Netgear Network Switch Model-4231,102.7,465,ITSupplies,09-08-2020
+d0e93389-8cbc-4a06-ad86-ec44e0ffddad,Processor,Netgear,Netgear Processor Model-7412,604.23,356,ComputeMart,12-21-2018
+cdb7e4e4-b6b1-41bd-9879-1094b79cbbd9,Network Switch,Acer,Acer Network Switch Model-5008,112.77,154,ITSupplies,11-26-2014
+80609907-3ba5-467a-aaf7-4d806ea4fbb4,Graphics Card,Intel,Intel Graphics Card Model-7064,1112.59,311,ITSupplies,8-14-2022
+0640bc3a-d53b-4b57-b713-21043d3f2dfd,Headset,Netgear,Netgear Headset Model-8470,39.82,129,TechWorld,10-14-2019
+a727632e-89b5-4333-a602-4f8f866cc24e,Power Supply,Lenovo,Lenovo Power Supply Model-1099,284,237,TechWorld,07-10-2014
+98ee7cac-37bb-48b0-acef-71f59abd9df9,Power Supply,Acer,Acer Power Supply Model-4066,284.96,455,NextGen Hardware,1-25-2021
+3b4b2ba5-3beb-40f6-bd58-e726f5589308,External Hard Drive,Dell,Dell External Hard Drive Model-4736,164.05,272,ITSupplies,10-30-2013
+5fc90db8-27a1-4077-a629-95ff1b733d1e,Motherboard,Lenovo,Lenovo Motherboard Model-7841,464.09,2,ComputeMart,6-30-2015
+5afdda5d-fcaa-4211-9f74-8fff844e724c,Keyboard,Netgear,Netgear Keyboard Model-4893,147.39,52,NextGen Hardware,7-17-2013
+920910f0-731c-4f01-80ec-5a74e51eaee0,External Hard Drive,Apple,Apple External Hard Drive Model-6189,138.64,123,TechWorld,11-29-2023
+d154aed1-070c-470b-aae8-84f05f10eb93,USB Hub,SteelSeries,SteelSeries USB Hub Model-8548,63.98,421,TechWorld,1-18-2019
+f229182d-19a1-4025-af14-8421b946a688,USB Hub,Netgear,Netgear USB Hub Model-2406,71.74,282,ITSupplies,09-09-2015
+0a71f41e-b7db-45d5-ba4f-93ba09397254,SSD,Kingston,Kingston SSD Model-7976,361.16,375,ITSupplies,04-12-2013
+5788ed7b-fdd2-43ad-9447-a3ee5b663af4,RAM,Dell,Dell RAM Model-8318,40.99,16,ITSupplies,5-27-2015
+6c236773-41eb-44ad-af27-b79e34634795,Keyboard,Logitech,Logitech Keyboard Model-1638,46.72,302,ITSupplies,7-15-2018
+d2ec6fc8-a8cb-499b-86b1-0e3a5eb4b7e7,Docking Station,Netgear,Netgear Docking Station Model-7705,237.22,428,TechWorld,9-23-2022
+0bfd795c-4f0a-418b-90f0-bc0fce0e413f,Printer,Intel,Intel Printer Model-7753,836.92,169,GadgetDepot,03-01-2016
+5d353a6f-57ec-4aa2-b4d3-6074a63f90aa,Router,SteelSeries,SteelSeries Router Model-7078,446.93,416,ComputeMart,1-20-2021
+9ac48f79-3ba5-4efe-b241-bf621a293343,USB Hub,AMD,AMD USB Hub Model-9708,96.73,334,ITSupplies,2-16-2023
+fbabe5f2-1684-4622-8efe-411b00bc0d62,Headset,Intel,Intel Headset Model-7795,238.29,345,GadgetDepot,10-31-2014
+96eebc81-1c7c-4c50-8d52-f79302ce88f2,Printer,TP-Link,TP-Link Printer Model-9425,819.16,306,GadgetDepot,6-25-2020
+02960578-413c-4a1e-a307-d4ef003e700e,Mouse,Seagate,Seagate Mouse Model-5901,117.77,372,ITSupplies,1-28-2023
+3636e2d6-4557-463f-95c3-9c3bfcf21670,Docking Station,Kingston,Kingston Docking Station Model-4577,140.08,264,GadgetDepot,10-21-2018
+379ec109-e4fa-4460-b240-569870e39efc,Docking Station,AMD,AMD Docking Station Model-2572,152.26,240,ComputeMart,10-26-2023
+548c0b21-afdd-453b-863a-5203a9c20804,RAM,Seagate,Seagate RAM Model-4246,355.24,140,TechWorld,7-24-2015
+361b1fe7-3acc-42f2-9fef-d02e0cd3459e,External Hard Drive,Samsung,Samsung External Hard Drive Model-5030,216.05,346,GadgetDepot,5-13-2016
+e2838b46-9231-4265-a3ef-dbf7e7d3ed02,Monitor,TP-Link,TP-Link Monitor Model-7508,243.55,310,GadgetDepot,9-26-2017
+d9d5cbce-1129-43a5-b863-7fabbbfe9191,USB Hub,MSI,MSI USB Hub Model-3912,11.78,423,GadgetDepot,2-19-2013
+ca413f87-4098-4ea1-a898-2b580215697b,SSD,Dell,Dell SSD Model-5183,254.09,377,ComputeMart,06-09-2019
+cadb761a-5306-40a9-b34b-1ce4383d576b,Laptop,Kingston,Kingston Laptop Model-3286,516.65,43,ComputeMart,3-29-2020
+a4b51b58-768a-4d2d-95e6-d4725510e634,Headset,Western Digital,Western Digital Headset Model-2701,45.29,242,ComputeMart,2-22-2017
+18a4abf2-f7c2-4f73-8719-1b4c334cf318,Laptop,ASUS,ASUS Laptop Model-7279,2601.63,482,TechWorld,1-23-2023
+d306c6bc-8732-4ab6-8ddd-922918013432,Keyboard,Kingston,Kingston Keyboard Model-9877,107.97,399,ComputeMart,01-04-2019
+9cecd0bd-9025-4ec7-919c-df5d692c7cdd,Desktop,Lenovo,Lenovo Desktop Model-7581,1190.53,191,NextGen Hardware,11-11-2017
+68e9d958-839c-4fe7-860e-8d5fcf889c27,Graphics Card,MSI,MSI Graphics Card Model-4155,1988.96,491,ComputeMart,7-24-2018
+cfecf8ca-20c3-4611-9f19-cad8c859e4d2,Webcam,TP-Link,TP-Link Webcam Model-1452,25.71,67,GadgetDepot,10-31-2014
+b139eec5-00f3-4d3e-abf4-d6725ef426e6,Router,Acer,Acer Router Model-2879,240.49,430,TechWorld,12-26-2017
+57cef3eb-e53f-4b77-85bc-abd3a26572c7,Docking Station,TP-Link,TP-Link Docking Station Model-9588,33.53,306,GadgetDepot,05-11-2020
+4e00e8ad-0832-4f26-b235-9fd10a27e95c,Desktop,Corsair,Corsair Desktop Model-6791,598.05,79,NextGen Hardware,07-11-2017
+0ea93e9d-1158-4792-bf1b-f8fc4065edea,External Hard Drive,TP-Link,TP-Link External Hard Drive Model-2691,151.84,281,GadgetDepot,11-05-2018
+292af329-4d08-4262-962e-082873594ad6,Motherboard,Apple,Apple Motherboard Model-3543,297.17,481,ComputeMart,10-04-2016
+9dea4c7d-90ff-4597-acb8-8adfec680cf5,Graphics Card,Netgear,Netgear Graphics Card Model-5834,1446.13,444,TechWorld,4-14-2018
+e6dad556-faad-4f07-ba87-acf4af4d8f67,Docking Station,Kingston,Kingston Docking Station Model-8435,130.71,187,ComputeMart,03-04-2014
+33367e37-b5e4-4252-a99e-4fec3f0e583b,Network Switch,Crucial,Crucial Network Switch Model-3105,330.56,233,ITSupplies,11-26-2013
+78008d8a-e93e-4f4a-97bf-dbfe73215fcb,Network Switch,ASUS,ASUS Network Switch Model-5363,191.45,6,ComputeMart,01-11-2018
+8dd3fb3a-2107-44a3-aa95-5ce2041fed4f,Laptop,Razer,Razer Laptop Model-1985,1654.04,50,NextGen Hardware,10-11-2018
+f65a2b8e-d7eb-4c91-b999-e28f02d258a1,Webcam,Acer,Acer Webcam Model-7951,81.36,259,GadgetDepot,10-07-2019
+88213ab4-00e0-4dff-a534-609a2ba95822,Monitor,SteelSeries,SteelSeries Monitor Model-5744,486.38,275,ITSupplies,2-24-2019
+c6a35fa8-9912-4312-afe0-87b677859010,Graphics Card,ASUS,ASUS Graphics Card Model-2994,824.75,116,NextGen Hardware,2-22-2022
+606fb6d3-b8db-4dc3-9134-6481efe809c1,Router,Acer,Acer Router Model-5822,388.73,203,GadgetDepot,9-26-2022
+f08d01cd-a05f-4afc-b290-1f4bb30c5388,Printer,Corsair,Corsair Printer Model-5726,678.62,156,ITSupplies,4-30-2015
+03489928-e3ed-43a3-9df2-6c54fbcaaf2f,Network Switch,Dell,Dell Network Switch Model-2488,74.66,171,NextGen Hardware,8-16-2013
+bac622b2-3233-4fd6-a987-06cfd2e85d35,Webcam,MSI,MSI Webcam Model-1136,32.16,483,GadgetDepot,05-12-2018
+e97dacfa-b316-4444-9dad-24b23bf883f8,Processor,Samsung,Samsung Processor Model-8100,986.93,77,GadgetDepot,04-05-2022
+f7c056ed-d6b2-4859-bbac-21ca0fac776a,SSD,Apple,Apple SSD Model-1395,111.15,423,TechWorld,7-25-2014
+a405ab01-2a26-49e6-9d4b-22db0e30f51a,Processor,Crucial,Crucial Processor Model-3210,595.55,103,NextGen Hardware,01-04-2018
+e8caf8fb-8b41-4d44-8172-3385da0d2cd8,USB Hub,Apple,Apple USB Hub Model-2204,22.3,393,ITSupplies,9-30-2020
+36b21c6b-762f-4d48-ae17-905c6c5f4974,Power Supply,Kingston,Kingston Power Supply Model-3471,209.78,141,ITSupplies,06-05-2017
+991ae57c-384f-4b85-b60a-d5363bcc04e7,Wi-Fi Adapter,Logitech,Logitech Wi-Fi Adapter Model-9763,11.44,227,NextGen Hardware,12-19-2014
+11903877-a903-4a42-b0f8-bfafadca5db9,USB Hub,Kingston,Kingston USB Hub Model-8103,38.98,446,NextGen Hardware,04-08-2016
+d020cb58-da37-4527-8d25-954cbf0172a8,Network Switch,AMD,AMD Network Switch Model-4957,287.16,111,NextGen Hardware,1-14-2021
+b5937155-d8cf-46e2-9f43-5219ba632266,Wi-Fi Adapter,Samsung,Samsung Wi-Fi Adapter Model-9003,20.96,295,TechWorld,6-20-2015
+531c6fb6-b235-42d5-bec1-3c8f8feca3be,Network Switch,AMD,AMD Network Switch Model-8917,373.43,437,NextGen Hardware,05-12-2021
+6e25f9a9-0bda-4507-bbb2-175d15e41e31,Motherboard,Intel,Intel Motherboard Model-7307,116.84,334,ITSupplies,5-13-2022
+c380cfa6-ac78-469c-a216-731f488cc180,USB Hub,Razer,Razer USB Hub Model-9591,70.23,141,TechWorld,3-30-2015
+99f789d1-9979-49eb-b916-836eab5e7592,RAM,Apple,Apple RAM Model-2210,205.68,367,GadgetDepot,2-26-2022
+667d137a-51a3-47ab-bb6c-2e5c4c4a5962,Keyboard,Apple,Apple Keyboard Model-5416,95.18,113,TechWorld,11-25-2014
+160657ff-c5d7-4347-af56-e5f4f1b29f87,Mouse,Seagate,Seagate Mouse Model-2651,91.03,372,NextGen Hardware,2-25-2022
+44a558dd-424b-4812-ab6f-cc4004040939,Keyboard,Acer,Acer Keyboard Model-4429,99.18,113,NextGen Hardware,9-15-2015
+a904e895-8d57-43d9-8238-7e4164de83a7,Laptop,ASUS,ASUS Laptop Model-5961,1222.33,32,ComputeMart,9-20-2022
+c01f6e7a-390f-41e9-a17b-e0ab3e8130a5,Headset,AMD,AMD Headset Model-2709,59.29,180,TechWorld,2-28-2017
+fdf45abf-07a4-469f-a4b7-605ce6ee25be,Headset,Acer,Acer Headset Model-2127,29.32,136,NextGen Hardware,6-17-2018
+bc779bdc-5b08-420a-b797-2532535f50f6,Power Supply,Apple,Apple Power Supply Model-3165,144.96,324,ComputeMart,10-21-2015
+dbeb3d02-c836-41e5-8e32-85cc081a75b6,Printer,Apple,Apple Printer Model-7732,833.54,493,NextGen Hardware,1-22-2018
+eef0e0ff-8322-4620-b591-aad9c4b09f2e,Printer,Dell,Dell Printer Model-2351,545.62,288,ComputeMart,01-02-2017
+83760006-4f8d-49f0-9019-17e2d39e4911,Monitor,Acer,Acer Monitor Model-5198,396.97,161,GadgetDepot,08-09-2021
+cab81426-c0a0-4275-979b-ff6a74575563,Laptop,AMD,AMD Laptop Model-6425,1352.95,448,ITSupplies,4-25-2014
+721625a6-9274-447e-aa6a-d7665e06d776,External Hard Drive,Apple,Apple External Hard Drive Model-5590,192.93,35,TechWorld,10-14-2013
+7bbfabbf-9d09-45a2-8a33-d47537d59fa9,Printer,Western Digital,Western Digital Printer Model-2534,434.69,175,TechWorld,12-02-2018
+79bd3988-1597-44fd-b50d-033b86c5eef2,Keyboard,Western Digital,Western Digital Keyboard Model-8764,198.12,310,ComputeMart,2-24-2020
+fc817195-7e96-4793-af18-03754b8ffcfa,Graphics Card,AMD,AMD Graphics Card Model-1393,722.68,420,ComputeMart,01-05-2021
+b29c8e59-b33d-4980-8a43-16acf59d2009,External Hard Drive,Western Digital,Western Digital External Hard Drive Model-1151,261.73,265,ITSupplies,12-08-2016
+0bae42c9-c586-408d-8f11-b6deeb0a8776,Wi-Fi Adapter,Samsung,Samsung Wi-Fi Adapter Model-7425,49.6,364,TechWorld,12-14-2014
+45f8c6bc-851a-4b67-92c6-8da4b217f15f,Graphics Card,MSI,MSI Graphics Card Model-8207,566.58,325,ITSupplies,04-06-2013
+bcb1c487-8d77-407d-82d5-6df920005045,Docking Station,Kingston,Kingston Docking Station Model-1091,225.81,335,ITSupplies,9-22-2013
+2f1b05c0-596d-4dc0-8a91-0f0fdaec9447,Headset,Dell,Dell Headset Model-2872,10.98,153,NextGen Hardware,11-14-2015
+57ab3cb0-74af-4dac-9ef1-91188630fd59,Keyboard,MSI,MSI Keyboard Model-3997,113.52,82,TechWorld,1-28-2014
+e633c3e0-099f-46ff-a826-4ae9344ac5bb,Keyboard,Kingston,Kingston Keyboard Model-5795,132,155,ITSupplies,8-20-2020
+61b6671f-91ef-4697-bf80-bae3eafa8978,Wi-Fi Adapter,Seagate,Seagate Wi-Fi Adapter Model-2871,40.6,274,TechWorld,10-28-2020
+5c0948bf-e306-4b17-963c-e7fb0a007b1e,External Hard Drive,Dell,Dell External Hard Drive Model-6062,298.93,208,GadgetDepot,3-27-2013
+6c319454-8fd9-4ff2-a340-981adfdd633f,Webcam,ASUS,ASUS Webcam Model-1085,101.73,254,NextGen Hardware,4-14-2016
+a824861f-023c-418a-994a-05206c4aaf9e,Keyboard,Samsung,Samsung Keyboard Model-7290,168.9,270,TechWorld,03-12-2022
+899e7371-8893-496c-9dc7-e3f30029a488,Motherboard,Logitech,Logitech Motherboard Model-1769,398.96,196,ComputeMart,1-19-2017
+70f410c5-384a-44ff-a68e-bba1c3302b2a,Processor,Acer,Acer Processor Model-4522,919.61,492,NextGen Hardware,4-16-2018
+1fc5d2e3-77f9-4200-9dcd-446c61f65d14,External Hard Drive,Seagate,Seagate External Hard Drive Model-2386,285.14,178,NextGen Hardware,11-29-2015
+20fb62aa-d507-4f42-8674-c17831e8f901,Desktop,Crucial,Crucial Desktop Model-6563,2181.48,41,ITSupplies,6-18-2013
+166202e0-33dc-439d-9928-2819b46ced66,Power Supply,Apple,Apple Power Supply Model-6482,162.5,4,GadgetDepot,7-26-2016
+73fa6dda-0631-47bd-8606-1491caa24632,USB Hub,Lenovo,Lenovo USB Hub Model-4185,13.34,192,TechWorld,08-08-2017
+29a2b196-1acb-4219-b791-e12650d7a43f,Docking Station,TP-Link,TP-Link Docking Station Model-6935,232.49,380,NextGen Hardware,2-20-2014
+afcead0b-9921-43df-8e77-f126380b1902,Mouse,Corsair,Corsair Mouse Model-9488,132.41,425,GadgetDepot,4-25-2016
+f273bf7d-6094-40c8-b1cc-4f439a6af3df,Power Supply,Razer,Razer Power Supply Model-3403,267.08,15,ITSupplies,07-10-2018
+1edc1b85-023c-4f9b-9084-b0730b8e0dbb,Monitor,Corsair,Corsair Monitor Model-3171,296.58,493,ITSupplies,5-15-2016
+dd876f1c-7a32-47fa-a3ed-c89af9f16c7e,Network Switch,Razer,Razer Network Switch Model-1356,393.92,34,TechWorld,03-11-2020
+8aa3cf78-e4e1-4fd0-9281-7cb16c792d88,Docking Station,Dell,Dell Docking Station Model-3091,154.92,50,TechWorld,5-19-2017
+d1b02768-7c8b-4a62-ab45-7cfec13e9b32,Webcam,AMD,AMD Webcam Model-3929,74.3,403,GadgetDepot,2-15-2021
+eaa29e9a-680d-4d86-99eb-22601fb73fe0,Router,Seagate,Seagate Router Model-5115,275.55,330,ComputeMart,3-30-2015
+b309cf83-4862-4013-a842-e7b8f2c48a9b,Motherboard,ASUS,ASUS Motherboard Model-1622,239.51,358,TechWorld,11-20-2016
+2badeff2-196c-425c-9945-c8191eef6764,RAM,AMD,AMD RAM Model-1888,142.56,213,TechWorld,5-20-2022
+64e1cadb-6787-4d3d-8dc9-ab5c97201f71,External Hard Drive,Crucial,Crucial External Hard Drive Model-4020,246.63,389,GadgetDepot,2-23-2018
+ed13f5b8-898b-4d91-95cd-54ea929ecf11,RAM,Samsung,Samsung RAM Model-1617,32.52,299,NextGen Hardware,03-05-2017
+783215ad-ea3d-41a2-8537-6e3eb692f251,Router,Razer,Razer Router Model-2178,231.25,42,ComputeMart,11-17-2014
+e9178400-58e6-4ce4-b5cb-2d2863d235c1,SSD,Acer,Acer SSD Model-5906,381.7,0,ComputeMart,8-19-2017
+b51b52cd-71c8-456c-80b6-4868b62adf01,Laptop,TP-Link,TP-Link Laptop Model-6256,1573.69,178,NextGen Hardware,8-19-2013
+ef2387f1-1987-46b8-a245-d0f3f7330b34,Power Supply,Netgear,Netgear Power Supply Model-3134,121.11,33,TechWorld,12-05-2014
+806e72c2-2511-441f-a20a-778d54995d41,USB Hub,Crucial,Crucial USB Hub Model-4113,56.78,79,ITSupplies,9-23-2013
+3839d8a3-5c7f-4853-a42d-56cf2968f16c,RAM,Netgear,Netgear RAM Model-1918,93.49,295,ITSupplies,7-27-2023
+d4b713ad-608f-4ebf-bd05-09c832631446,Processor,Seagate,Seagate Processor Model-6373,549.17,494,TechWorld,08-04-2018
+be899161-1ca5-4a46-bec9-932da9be7965,Wi-Fi Adapter,Netgear,Netgear Wi-Fi Adapter Model-1326,24.53,404,NextGen Hardware,9-29-2017
+c9456ac9-6ccc-45ed-96d4-91798af6e27e,Desktop,Corsair,Corsair Desktop Model-2322,2407.04,98,ITSupplies,3-16-2017
+62994a56-219d-46c6-acc4-6695b2df2903,Keyboard,Crucial,Crucial Keyboard Model-9940,48.68,145,ComputeMart,4-18-2014
+2a6a4fce-a451-4383-91e4-d76fe2e81081,Headset,Razer,Razer Headset Model-7081,242.6,55,TechWorld,11-16-2017
+e2f6ff0f-fe42-49ac-8581-4d9a0641e0bd,Headset,Samsung,Samsung Headset Model-8343,178.63,393,ITSupplies,01-03-2023
+90ffb7e4-8cf6-4b8b-8431-e7789404b8d3,Headset,Seagate,Seagate Headset Model-8005,188.6,288,NextGen Hardware,10-01-2021
+3afa3845-2bd7-436d-b310-1a8df4c9d12e,Network Switch,ASUS,ASUS Network Switch Model-3236,218.1,48,ComputeMart,12-20-2021
+022bb1d6-ba86-4b76-a5d2-6d27aa8e37cb,Webcam,Razer,Razer Webcam Model-7572,78.85,141,NextGen Hardware,10-12-2022
+099a3d29-7b27-4b43-bd8d-c1dfca8f459c,Headset,Crucial,Crucial Headset Model-9865,68.58,67,ComputeMart,03-12-2016
+6940d91b-9c09-4fea-879c-5a72a672e06d,Docking Station,SteelSeries,SteelSeries Docking Station Model-6118,136.68,61,GadgetDepot,09-04-2023
+116ab52e-a002-4eab-97a4-70eded57751b,Laptop,Logitech,Logitech Laptop Model-3431,2580.02,27,ITSupplies,2-16-2015
+ace14ce9-c31c-434f-aa3e-8918793a4773,Graphics Card,Corsair,Corsair Graphics Card Model-5846,1828.25,45,ComputeMart,2-13-2021
+48ebf3b3-4298-4eb8-9169-1f23bb40c415,Headset,Corsair,Corsair Headset Model-6734,189.18,263,NextGen Hardware,10-27-2023
+1a374e93-f924-484f-90fa-2f69570c4131,Laptop,Apple,Apple Laptop Model-4035,924.36,475,NextGen Hardware,5-26-2022
+b264a9cb-88f9-40c0-9c42-9fd319d06182,Desktop,Samsung,Samsung Desktop Model-5983,1650.87,359,GadgetDepot,05-09-2023
+34d4e203-b550-4a45-81a3-b2aa112bd012,Monitor,Samsung,Samsung Monitor Model-7030,213.86,344,TechWorld,06-10-2017
+a7bc5829-518b-452a-a1ee-4be02247f197,Webcam,Samsung,Samsung Webcam Model-3107,89.7,238,ITSupplies,04-04-2020
+85b90e2f-ad7f-45cf-910a-f4ebbe088198,Laptop,MSI,MSI Laptop Model-5967,2517.56,308,GadgetDepot,09-01-2022
+be5cdd57-ba81-4539-8f9b-65ffdb0cc460,Power Supply,MSI,MSI Power Supply Model-1516,295.96,72,TechWorld,1-15-2016
+c418ab5f-1026-473f-a8a3-9beb9576be15,SSD,AMD,AMD SSD Model-6022,305.09,247,NextGen Hardware,6-14-2016
+8a955690-85a7-4941-aa8d-fc10787d04af,Desktop,Seagate,Seagate Desktop Model-6966,539.92,219,ITSupplies,4-22-2013
+3d4803dd-0140-404e-a55d-1fd7d9f11c61,Webcam,Lenovo,Lenovo Webcam Model-8196,31.64,123,TechWorld,04-09-2019
+2d15d490-139b-4bf4-9ccc-35c6cbeb4128,Docking Station,Crucial,Crucial Docking Station Model-4623,181.89,404,ComputeMart,5-15-2021
+614366d5-43e5-494a-89ad-20be3b1414b7,Wi-Fi Adapter,Seagate,Seagate Wi-Fi Adapter Model-8960,34.21,386,GadgetDepot,07-16-2021
+491aa1c5-8407-40d9-939e-fd556621ad0f,Network Switch,Netgear,Netgear Network Switch Model-4503,300.99,31,ITSupplies,08-05-2020
+02badda9-d34d-43ef-8cd1-ff163e4861fe,Laptop,Corsair,Corsair Laptop Model-5101,2051.63,190,ComputeMart,03-19-2013
+423599ba-2e1a-4d61-990f-094e17a246de,Monitor,MSI,MSI Monitor Model-8089,686.1,478,ITSupplies,09-01-2014
+879c837f-802a-452e-b07e-f49e7379aeb6,Monitor,HP,HP Monitor Model-8517,107.72,481,NextGen Hardware,09-01-2021
+d3203289-3e3d-4771-aeef-f2d6efe1507e,Webcam,Western Digital,Western Digital Webcam Model-6171,114.14,448,NextGen Hardware,07-05-2023
+76723393-a327-4899-9912-c4808de022e4,Docking Station,SteelSeries,SteelSeries Docking Station Model-6691,289.18,463,TechWorld,12-09-2022
+250844ac-0c50-4101-8bdd-e6e022214e3e,Mouse,Crucial,Crucial Mouse Model-6145,109.57,445,GadgetDepot,11-14-2018
+757aa0f1-9e58-4815-901a-6c11546edad2,Keyboard,Western Digital,Western Digital Keyboard Model-1408,171.44,449,ComputeMart,02-18-2020
+f232f6d2-8f71-4106-82c2-6359ec8a3b1b,External Hard Drive,Kingston,Kingston External Hard Drive Model-5591,221.92,338,GadgetDepot,08-13-2021
+9a7bde8d-4af2-4f48-8453-b7f2131c1c1f,Docking Station,Kingston,Kingston Docking Station Model-6852,289.32,322,TechWorld,11-01-2014
+5c46c3f1-e54d-4986-8e45-aacce052612d,Power Supply,ASUS,ASUS Power Supply Model-7348,246.21,87,ITSupplies,09-19-2016
+b8879d74-557f-4299-88ca-77c5f16cec4c,Mouse,MSI,MSI Mouse Model-8182,97.6,323,ITSupplies,05-31-2023
+c84a6f63-90a2-4fe8-bc10-85a4c23347f3,Webcam,Netgear,Netgear Webcam Model-7723,188.07,442,GadgetDepot,01-21-2021
+2853051f-f256-4b1b-88a3-9ecbe81d2471,Laptop,Western Digital,Western Digital Laptop Model-8000,1254.19,53,NextGen Hardware,10-08-2021
+74b84eda-6332-4c41-bcaa-30d33375558d,External Hard Drive,Crucial,Crucial External Hard Drive Model-4579,145.17,324,NextGen Hardware,10-24-2018
+5ff7ef00-e1a2-4964-8c8d-fbe95c7f63ed,Power Supply,Acer,Acer Power Supply Model-8162,291.36,216,TechWorld,09-16-2013
+aa7b77d3-8e55-40fe-b36a-37113031f66c,RAM,Kingston,Kingston RAM Model-1313,396.58,288,ITSupplies,12-27-2015
+5d500141-eb14-43ef-ba46-c711a32e9bf6,Router,ASUS,ASUS Router Model-4337,348.07,370,GadgetDepot,12-03-2015
+6f2a8bc4-ce8d-4fa2-b693-b615afc81d26,RAM,HP,HP RAM Model-8192,383.44,251,NextGen Hardware,03-05-2016
+3fd2c1c1-703e-4f65-9b04-96fe7e0ab962,Network Switch,Logitech,Logitech Network Switch Model-8221,40.75,55,GadgetDepot,04-07-2016
+82ddecb0-cbcc-4f8b-ba47-b62387d9fcb8,Graphics Card,Corsair,Corsair Graphics Card Model-4078,2119.12,442,NextGen Hardware,12-24-2017
+ac9d730b-2a78-476f-a50b-b8063821dd86,Graphics Card,HP,HP Graphics Card Model-2731,730.12,457,NextGen Hardware,11-16-2023
+6fefda94-ff9c-49c0-b5d6-1bbb15ce69a7,External Hard Drive,Kingston,Kingston External Hard Drive Model-1222,270.63,411,TechWorld,01-06-2019
+cc2b2b48-6663-42a7-bdd2-655f66e731cc,Laptop,Kingston,Kingston Laptop Model-5670,828.18,362,GadgetDepot,03-20-2013
+9ac68ece-38c1-46e4-bb77-3632176da381,RAM,Western Digital,Western Digital RAM Model-4973,63.41,451,GadgetDepot,12-09-2023
+4d4a7046-affe-40b3-bb62-ebde85b76701,Headset,Crucial,Crucial Headset Model-3616,74.72,408,TechWorld,09-05-2014
+b7f84c22-6725-4cb2-b33b-a9dd8f5734ad,Docking Station,Lenovo,Lenovo Docking Station Model-1182,64.99,241,ComputeMart,06-09-2013
+7ef0ab3d-20af-438b-ae8a-28e54efe9565,Desktop,Crucial,Crucial Desktop Model-3844,583.31,304,TechWorld,01-18-2020
+8f970222-abc4-442e-8088-a399e1e5550d,Wi-Fi Adapter,ASUS,ASUS Wi-Fi Adapter Model-5046,39.61,219,NextGen Hardware,03-28-2016
+46678446-47ba-4f82-b722-2bf3d95f8799,Monitor,Lenovo,Lenovo Monitor Model-1625,635,299,GadgetDepot,08-09-2016
+f81dd08b-1de2-42bc-8e0b-76b517ecb5a2,Headset,Dell,Dell Headset Model-9491,249.75,434,TechWorld,02-18-2023
+53603d71-ed9a-42f7-8d4e-1b661132f612,Motherboard,Kingston,Kingston Motherboard Model-8844,315.23,237,GadgetDepot,04-17-2018
+66fbe962-be27-4533-91a7-ae9f452883c9,Webcam,Dell,Dell Webcam Model-3707,24.25,225,TechWorld,10-04-2014
+b024bea0-3a9d-4568-9a42-5a218ff1da64,Desktop,AMD,AMD Desktop Model-6237,1213.11,422,TechWorld,07-03-2013
+a918c20c-5701-4dcc-a306-9ae221b2db83,External Hard Drive,SteelSeries,SteelSeries External Hard Drive Model-3248,188.1,157,ITSupplies,04-24-2016
+a7e339f7-b008-40e3-b300-a16feb7cbc67,Monitor,SteelSeries,SteelSeries Monitor Model-4517,764.83,71,GadgetDepot,08-17-2017
+8ab079c7-1f0f-4a59-a02c-c71abf9f6821,Wi-Fi Adapter,Seagate,Seagate Wi-Fi Adapter Model-4550,30.59,112,ComputeMart,08-28-2018
+409e18d8-34e6-45f9-acf5-033317ed0aca,Keyboard,AMD,AMD Keyboard Model-7172,164.15,195,GadgetDepot,11-11-2014
+146cfd4a-2980-42f9-b06e-e7b116740dd7,RAM,AMD,AMD RAM Model-6968,94.94,313,ComputeMart,02-26-2020
+91d1dfc9-5fcb-4556-a5c8-ecade8e445fa,Laptop,Lenovo,Lenovo Laptop Model-5324,1546.17,234,GadgetDepot,01-13-2016
+1e270bb9-4a43-4538-8562-331be8a9b803,Wi-Fi Adapter,SteelSeries,SteelSeries Wi-Fi Adapter Model-6606,10.22,361,ComputeMart,11-29-2013
+1b15ca03-e772-4163-b59b-a7d16dbe5476,SSD,ASUS,ASUS SSD Model-2322,91.28,234,TechWorld,10-04-2014
+df254a15-f02b-47ab-a266-3d45eca86b7c,External Hard Drive,MSI,MSI External Hard Drive Model-4603,90,181,NextGen Hardware,05-24-2018
+b9c8a1a2-521e-4541-8082-60dac83d1f7a,Keyboard,HP,HP Keyboard Model-7346,27.72,496,TechWorld,01-07-2016
+9ead5de3-d45b-41d3-957f-6b0a44c8b731,RAM,Lenovo,Lenovo RAM Model-1973,136.24,413,ComputeMart,12-26-2016
+0ac2c764-4a22-4946-b000-37b48065f7ca,Headset,AMD,AMD Headset Model-4151,168.58,483,ComputeMart,02-16-2015
+d641f8aa-a9cd-4205-a256-0d3262d57974,Monitor,Logitech,Logitech Monitor Model-7442,381.94,319,ComputeMart,04-28-2017
+8e2fe1eb-0241-4221-b39e-2d0c432c1427,Motherboard,Lenovo,Lenovo Motherboard Model-6567,215.2,230,TechWorld,11-24-2022
+5f08e035-9783-4763-b164-331f2958d6fd,Router,SteelSeries,SteelSeries Router Model-3973,354.41,333,ComputeMart,07-08-2021
+c81d9a12-b478-4403-8a7f-f7c4401f070c,Motherboard,Kingston,Kingston Motherboard Model-8168,129.33,51,ITSupplies,03-23-2023
+17d4d581-dfec-48a5-a915-18f19554c55d,Mouse,Apple,Apple Mouse Model-6240,132.73,97,ITSupplies,03-11-2014
+b230a104-fcf0-41bf-aea9-342321924bce,Router,Apple,Apple Router Model-9088,353.22,70,GadgetDepot,08-25-2014
+ddf4ddf6-42ec-4a20-9b34-3bdcb7b245b3,RAM,ASUS,ASUS RAM Model-7428,71.37,437,NextGen Hardware,10-15-2017
+94fa5338-ff88-4cf2-909f-64531ae54aa1,Wi-Fi Adapter,Kingston,Kingston Wi-Fi Adapter Model-9840,13.36,279,ITSupplies,01-10-2013
+33cf4063-bd16-44f4-a084-3c80f851ef3e,Motherboard,Lenovo,Lenovo Motherboard Model-9782,155.77,66,ComputeMart,06-03-2017
+f55308f4-73cc-4e11-a4dc-c6a1fc398d7a,External Hard Drive,Intel,Intel External Hard Drive Model-5599,204.24,25,ComputeMart,08-15-2017
+ab4c462f-91ba-401c-a52a-f1c7c387e4a2,Processor,MSI,MSI Processor Model-8223,623.38,465,GadgetDepot,06-03-2017
+6e4013db-8ea5-4a81-bb89-9ba5c302bc8c,Mouse,Apple,Apple Mouse Model-8197,42.43,365,TechWorld,05-15-2013
+33818bb3-4256-4e98-9e31-86cbae20c1e1,Graphics Card,Dell,Dell Graphics Card Model-1876,1647.69,276,GadgetDepot,01-02-2018
+0bb0561d-9888-4328-a191-269c39b8b1b0,Monitor,SteelSeries,SteelSeries Monitor Model-5176,410.16,344,ComputeMart,09-19-2019
+9d5429e1-11df-4d6f-b3e9-7cd6fecab191,Processor,TP-Link,TP-Link Processor Model-6450,413.17,32,GadgetDepot,08-24-2021
+230a2832-f516-41b8-9d94-f3e4280fd530,SSD,TP-Link,TP-Link SSD Model-8385,86.61,14,TechWorld,05-09-2020
+e2e6639d-90ab-4006-9c77-2e15c6de5d5d,Monitor,Netgear,Netgear Monitor Model-6661,472.59,153,ITSupplies,05-24-2020
+40dd6648-e317-4e08-9dac-24905fcdf217,Desktop,Netgear,Netgear Desktop Model-9209,1634.26,492,ComputeMart,05-25-2020
+f70544ba-8227-40a8-96fd-58277a9b2a88,Docking Station,Razer,Razer Docking Station Model-9199,244.07,267,NextGen Hardware,04-13-2013
+1898c514-7625-46a4-af9e-f2f866630e12,Motherboard,ASUS,ASUS Motherboard Model-3323,168.65,44,NextGen Hardware,04-01-2021
+9d42f489-f3c8-44f4-80f8-17d70b9e8d1e,Desktop,Corsair,Corsair Desktop Model-8001,512.42,45,GadgetDepot,06-25-2021
+d3b9c3b0-9ad0-43bf-b121-cd952cd3117e,External Hard Drive,Razer,Razer External Hard Drive Model-9312,74.43,457,ComputeMart,11-22-2019
+1be194f2-5bed-4094-b660-a7a0d1450d72,Router,Western Digital,Western Digital Router Model-7946,439.72,217,ComputeMart,11-23-2020
+b1e185e4-2f3f-4b38-927a-e7627bc5c5bb,SSD,Dell,Dell SSD Model-4637,174.28,467,NextGen Hardware,02-24-2015
+72aed6e8-570e-4409-a452-3da9aa43fd88,Router,Crucial,Crucial Router Model-9264,56.79,247,NextGen Hardware,07-11-2019
+55fac21c-7cd6-4a58-95d9-2283728b1463,Laptop,Dell,Dell Laptop Model-4606,1528.37,286,ITSupplies,09-21-2013
+2f62e9cd-4880-4e11-ae84-6c7c212d5d18,Processor,Acer,Acer Processor Model-4893,684.2,228,TechWorld,12-03-2013
+faafccef-3004-4909-a792-52615a110ef4,Power Supply,MSI,MSI Power Supply Model-1151,167.4,245,ITSupplies,02-26-2019
+c05f3571-53e1-4211-8421-8970704a8d8c,Router,TP-Link,TP-Link Router Model-2533,95.04,65,ITSupplies,05-26-2018
+e6514b0b-eb9a-4278-9d0e-39584a5a3984,Wi-Fi Adapter,AMD,AMD Wi-Fi Adapter Model-9170,34.95,154,TechWorld,05-27-2023
+a6f98670-90ac-4b41-8c5a-5c7a387a7dcb,Mouse,Acer,Acer Mouse Model-6918,29.46,184,GadgetDepot,10-19-2019
+9f63d4f0-7896-460c-8587-fce1520139ba,Webcam,Acer,Acer Webcam Model-4812,152.75,44,GadgetDepot,09-22-2013
+256d082d-4d9e-4521-af05-d1b5b6c7c2fb,RAM,Apple,Apple RAM Model-8680,154.71,328,GadgetDepot,08-31-2021
+59320338-9ab2-412b-b591-0ac2e5b64b26,USB Hub,Logitech,Logitech USB Hub Model-4920,67.67,381,NextGen Hardware,06-17-2016
+26196ac1-e9a3-49d1-9d00-92c9a0658253,Headset,Acer,Acer Headset Model-9013,176.59,46,GadgetDepot,10-30-2015
+106c7ce0-22a6-4ecc-a9a5-f704c4406211,Monitor,AMD,AMD Monitor Model-9164,354.71,139,GadgetDepot,08-12-2021
+a4bf0b41-e5eb-4f03-bd76-5188dad705a3,RAM,Acer,Acer RAM Model-7377,68.46,400,ComputeMart,01-29-2021
+06d3fc68-e7ec-49b8-9a6b-ab5a080b3e25,Headset,Samsung,Samsung Headset Model-6606,235.86,139,NextGen Hardware,05-09-2016
+7574a49f-98ed-40f5-886b-f006bcd90531,Power Supply,Netgear,Netgear Power Supply Model-4724,187.59,48,ITSupplies,11-23-2019
+87397387-cf50-4f51-b2c1-ec9db7726fb6,Processor,Acer,Acer Processor Model-6724,465.07,123,GadgetDepot,07-23-2014
+97c18fcb-191e-4ec3-bdd9-41e6b0f8afa0,Mouse,TP-Link,TP-Link Mouse Model-8189,112.5,350,NextGen Hardware,12-03-2017
+b79852f4-f9ab-466c-91e9-b38bf66353db,Power Supply,Acer,Acer Power Supply Model-2243,33.84,183,GadgetDepot,04-15-2019
+88444d70-ef7e-4c45-a2c1-06129fde3c54,Keyboard,AMD,AMD Keyboard Model-2272,36.59,453,NextGen Hardware,10-19-2021
+79c64ade-660f-4926-907c-30e5516cc4fa,Desktop,ASUS,ASUS Desktop Model-9466,544.48,5,ComputeMart,07-04-2016
+67833e54-a631-4ee0-bfdf-6b44cb4f7788,Keyboard,Acer,Acer Keyboard Model-7434,183.77,409,ITSupplies,06-22-2016
+5b326adf-6bf4-4044-855c-682d01a31278,SSD,Seagate,Seagate SSD Model-6330,328.32,334,ITSupplies,08-09-2016
+bfcf1058-dfca-4b0d-a2b0-f2a244fc25a1,Laptop,HP,HP Laptop Model-4584,1123.12,453,ITSupplies,09-24-2019
+0fea7e6d-b684-4e5e-8fcc-990e162a88e8,SSD,Apple,Apple SSD Model-7919,251.53,27,ComputeMart,06-13-2021
+78583324-24f3-4cb2-a526-06b744deaae8,SSD,TP-Link,TP-Link SSD Model-7718,144.62,336,ComputeMart,10-03-2015
+f0a0ea79-663b-4565-90fb-283307e467be,Router,Intel,Intel Router Model-1849,173.57,62,ITSupplies,12-14-2016
+9a65c757-240e-4f1e-8477-e9f2e7982e16,Headset,HP,HP Headset Model-2218,146.49,317,TechWorld,08-11-2016
+3d3c4903-ce41-4b31-8a96-fd5c0dd7a4e7,SSD,Razer,Razer SSD Model-5383,101.14,291,NextGen Hardware,05-22-2018
+d7fc1e89-9128-4116-814e-65d4faa8b4de,External Hard Drive,TP-Link,TP-Link External Hard Drive Model-9235,103.99,211,GadgetDepot,03-24-2022
