@@ -50,8 +50,14 @@ for col in columns:
 input_encoded = input_encoded[columns]
 
 # Scale numeric columns
+# Scale numeric columns safely
 numeric_cols = ['Product Age (Years)', 'Stock']
-input_encoded[numeric_cols] = scaler.transform(input_encoded[numeric_cols].astype(float))
+try:
+    scaled_values = scaler.transform(input_encoded[numeric_cols])
+    input_encoded[numeric_cols] = scaled_values
+except ValueError as e:
+    st.error(f"Scaler error: {e}")
+    st.stop()
 
 # --- Prediction ---
 if st.button("Predict Price"):
