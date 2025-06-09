@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model, scaler, and columns
-model = joblib.load('best_random_forest_model.joblib')
+model = joblib.load('best_linear_model.joblib')
 scaler = joblib.load('scaler.joblib')
 columns = joblib.load('feature_columns.joblib')
 
@@ -14,8 +14,8 @@ product_age = st.number_input("Product Age (Years)", min_value=0, max_value=50, 
 stock = st.number_input("Stock Quantity", min_value=0, max_value=10000, value=10)
 
 brand = st.selectbox("Brand", ['ASUS', 'Acer', 'Apple', 'Corsair', 'Crucial', 'Dell', 'Gigabyte', 'HP', 'Intel', 'Kingston', 'Lenovo', 'Logitech', 'MSI', 'Microsoft', 'Razer', 'Samsung', 'Seagate', 'Sony', 'Toshiba', 'Western Digital'])
-category = st.selectbox("Category", ['Desktop', 'Laptop', 'Monitor', 'Mouse', 'Keyboard', 'Printer', 'Processor', 'RAM', 'Hard Drive', 'Graphic Card'])
-supplier = st.selectbox("Supplier", ['Supplier A', 'Supplier B', 'Supplier C', 'Supplier D', 'Supplier E'])
+category = st.selectbox("Category", ['Motherboard' ,'Wi-Fi Adapter', 'Network Switch' ,'Power Supply' ,'Monitor''SSD', 'Processor', 'Keyboard', 'Graphics Card' ,'Router', 'Printer','External Hard Drive', 'RAM', 'Laptop', 'Webcam', 'USB Hub', 'Docking Station','Mouse', 'Headset' ,'Desktop'])
+supplier = st.selectbox("Supplier",['ComputeMart', 'TechWorld' ,'GadgetDepot', 'ITSupplies', 'NextGen Hardware'])
 
 # --- Build input dict and encode ---
 input_dict = {
