@@ -61,13 +61,63 @@ Several regression models were tested using 5-fold cross-validation:
 
 ## 🧪 Final Model Evaluation
 
-Performance on the test set (after hyperparameter tuning and full preprocessing):
+Performance on the test set (after full preprocessing):
 
 - **R² Score**: 0.7249
 - **MAE**: 0.4750
 - **RMSE**: 0.6028
 
 These results indicate a good balance between bias and variance, and reliable predictive power.
+
+---
+
+## 🧠 SQL Queries and Integration
+
+We used **SQLite** in Python (`sqlite3`) to perform exploratory and summary analysis using SQL before applying machine learning. This also shows how data can be used from relational databases in real-life deployment scenarios.
+
+### Sample Queries:
+
+- **1. Total Products by Category**
+```sql
+SELECT Category, COUNT(*) AS Total_Products
+FROM products
+GROUP BY Category;
+```
+
+- **2. Average Price by Brand**
+```sql
+SELECT Brand, AVG("Price (USD)") AS Average_Price
+FROM products
+GROUP BY Brand
+ORDER BY Average_Price DESC;
+```
+
+- **3. Products with Stock Below Average**
+```sql
+SELECT *
+FROM products
+WHERE Stock < (SELECT AVG(Stock) FROM products);
+```
+
+- **4. Latest Manufactured Products**
+```sql
+SELECT * FROM products
+ORDER BY "Date Manufactured" DESC
+LIMIT 5;
+```
+
+These queries were run using pandas’ integration with SQLite for in-notebook analysis.
+
+---
+
+## 📈 Visualizations
+
+- Actual vs Predicted Log Prices  
+- Residual Plot  
+- Distribution of Residuals  
+- (Optional) Feature Importances (for tree-based models)
+
+These plots were created using `matplotlib` and `seaborn` to analyze model behavior and check for overfitting.
 
 ---
 
@@ -112,6 +162,8 @@ The following files are saved using `joblib` for deployment:
 - scikit-learn  
 - joblib  
 - matplotlib  
+- seaborn  
+- sqlite3 (built-in)  
 - streamlit (optional for app interface)
 
 Install them with:
