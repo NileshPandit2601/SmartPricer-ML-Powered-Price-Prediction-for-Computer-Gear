@@ -114,9 +114,6 @@ These queries were run using pandas’ integration with SQLite for in-notebook a
 
 - Actual vs Predicted Log Prices  
 - Residual Plot  
-- Distribution of Residuals  
-- (Optional) Feature Importances (for tree-based models)
-
 These plots were created using `matplotlib` and `seaborn` to analyze model behavior and check for overfitting.
 
 ---
