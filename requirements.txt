@@ -1,6 +1,6 @@
 streamlit
 scikit-learn
-pandas
 numpy
+pandas
 joblib
-sqlite3
+
