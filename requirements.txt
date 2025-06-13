@@ -1,6 +1,6 @@
-streamlit
-scikit-learn
-numpy
+cloudpickle
 pandas
+numpy
+scikit-learn
+streamlit
 joblib
-
