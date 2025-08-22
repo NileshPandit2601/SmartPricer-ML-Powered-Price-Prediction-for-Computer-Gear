@@ -162,7 +162,9 @@ pip install -r requirements.txt
 ---
 ## 🚀 Live Demo
 
-Check out the live application here:  
-👉 [SmartPricer on Streamlit]([https://smartpricer-ml-powered-price-prediction-for-computer-gear.streamlit.app/](https://smartpricer-ml-powered-price-prediction-for-computer-gear-yex8.streamlit.app/))
+Experience **SmartPricer** in action right now:
+👉 ## ​ Live Demo
+[**smartpricer-ml-powered-price-prediction-for-computer-gear**](https://smartpricer-ml-powered-price-prediction-for-computer-gear-yex8.streamlit.app/)
+
 
 ---
