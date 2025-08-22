@@ -154,18 +154,15 @@ The following files are saved using `joblib` for deployment:
 
 ## 📦 Requirements
 
-- pandas  
-- numpy  
-- scikit-learn  
-- joblib  
-- matplotlib  
-- seaborn  
-- sqlite3 (built-in)  
-- streamlit (optional for app interface)
-
 Install them with:
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+## 🚀 Live Demo
+
+Check out the live application here:  
+👉 [SmartPricer on Streamlit](https://smartpricer-ml-powered-price-prediction-for-computer-gear.streamlit.app/)
 
 ---
