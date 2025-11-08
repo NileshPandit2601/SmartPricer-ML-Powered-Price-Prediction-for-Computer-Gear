@@ -20,7 +20,7 @@ It empowers retailers to stay competitive and ensures customers get fair pricing
 
 ---
 
-## ✨ Features  
+## Features  
 - Predicts prices based on **product age, stock levels, brand, category, and supplier**  
 - Outputs accurate **price estimates in USD**  
 - Interactive and user-friendly **Streamlit interface**  
@@ -28,7 +28,7 @@ It empowers retailers to stay competitive and ensures customers get fair pricing
 ---
 
 ## Tech Stack  
-- **Python** & ⚙️ **scikit-learn** → Model development  
+- **Python** & **scikit-learn** → Model development  
 - **Joblib** → Model serialization  
 - **Streamlit** → Web app deployment  
 
@@ -40,7 +40,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/NileshPandit2601/SmartPricer-ML-Powered-Price-Prediction-for-Computer-Gear.git
 cd SmartPricer-ML-Powered-Price-Prediction-for-Computer-Gear
-
+```
 ---
 ## Business Impact
 
