@@ -1,14 +1,14 @@
 # 💻 SmartPricer — ML-Powered Price Prediction for Computer Gear
 
 ### Project Purpose:
-To demonstrate a full ML project from scratch to deployment to a web app.
+To demonstrate a complete Machine Learning project — from data preprocessing and model building to full deployment as a web application.
 
 ### Business Case:
-To create a model that accurately predicts component price and automates the manual pricing process.
+To develop a model that accurately predicts component prices and automates the traditionally manual pricing workflow.
 
 ---
 ### Deliverable:  
-A web app that end users can utilize to predict components price using a ML model on the backend.: [SmartPricer App](https://smartpricer-ml-powered-price-prediction-for-computer-gear-yex8.streamlit.app/)  
+A web app that end users can use to predict component prices using a machine learning model on the backend. Live link : [SmartPricer App](https://smartpricer-ml-powered-price-prediction-for-computer-gear-yex8.streamlit.app/)  
 
 ![App Screenshot](https://github.com/NileshPandit2601/SmartPricer-ML-Powered-Price-Prediction-for-Computer-Gear/blob/main/smartpricer.jpg)
 
@@ -16,7 +16,7 @@ A web app that end users can utilize to predict components price using a ML mode
 
 ## Overview  
 **SmartPricer** leverages **Machine Learning** to **bridge the gap between online and offline computer equipment prices**.  
-It empowers retailers to stay competitive and ensures customers get fair pricing.  
+It empowers retailers to stay competitive while ensuring customers receive fair and transparent pricing.  
 
 ---
 
@@ -44,7 +44,7 @@ cd SmartPricer-ML-Powered-Price-Prediction-for-Computer-Gear
 ---
 ## Business Impact
 
-SmartPricer enables **data-driven pricing decisions** for retailers, suppliers, and online marketplaces. By accurately predicting computer gear prices based on product attributes, it helps:
+SmartPricer enables **data-driven pricing decisions** for retailers, suppliers, and online marketplaces. By accurately predicting computer gear prices from product attributes it helps to:
 
 * **Retailers** maintain competitive pricing and prevent over- or under-valuing stock.
 * **Businesses** maximize profit margins while improving inventory turnover.
