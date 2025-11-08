@@ -1,7 +1,16 @@
 # 💻 SmartPricer — ML-Powered Price Prediction for Computer Gear
 
-### 🚀 Live Demo  
-👉 Try it out live here: [SmartPricer App](https://smartpricer-ml-powered-price-prediction-for-computer-gear-yex8.streamlit.app/)  
+### Project Purpose:
+To demonstrate a full ML project from scratch to deployment to a web app.
+
+### Business Case:
+To create a model that accurately predicts component price and automates the manual pricing process.
+
+---
+### Deliverable:  
+A web app that end users can utilize to predict components price using a ML model on the backend.: [SmartPricer App](https://smartpricer-ml-powered-price-prediction-for-computer-gear-yex8.streamlit.app/)  
+
+![App Screenshot](https://github.com/NileshPandit2601/SmartPricer-ML-Powered-Price-Prediction-for-Computer-Gear/blob/main/smartpricer.jpg)
 
 ---
 
